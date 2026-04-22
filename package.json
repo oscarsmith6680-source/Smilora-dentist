@@ -1,0 +1,27 @@
+{
+  "name": "smilora-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.3",
+    "framer-motion": "^11.2.10",
+    "next": "14.2.3",
+    "nodemailer": "^8.0.5",
+    "react": "^18.3.1",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.3.1",
+    "react-intersection-observer": "^9.10.3",
+    "swiper": "^11.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}

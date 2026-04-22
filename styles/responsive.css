@@ -1,0 +1,3988 @@
+@media screen and (min-width:1200px) {
+
+    /* Home */
+    .main-container {
+        max-width: 1417px;
+        margin: auto;
+    }
+
+    .main-container {
+        max-width: 1660px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+
+}
+
+@media screen and (max-width: 1750px) {
+
+    .main-box,
+    .padding-rl {
+        padding-right: 1% !important;
+        padding-left: 1% !important;
+    }
+
+    .padding-rl-responsive {
+        padding-right: 1% !important;
+        padding-left: 1% !important;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -11%;
+    }
+
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1580px) {
+    .about-right-con {
+        padding-right: 20%;
+    }
+
+    .video-content-right-con {
+        padding-right: 20%;
+    }
+
+    .vector {
+        bottom: 0;
+        right: 0;
+        width: 300px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -24%;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .main-box,
+    .padding-rl {
+        padding-right: 1% !important;
+        padding-left: 1% !important;
+    }
+
+    .padding-rl-responsive {
+        padding-right: 1% !important;
+        padding-left: 1% !important;
+    }
+
+    /* .row {
+        margin: 0;
+    } */
+
+    .spacer {
+        height: 15px;
+    }
+
+    /* FONT SIZES */
+    .text-size-80 {
+        font-size: 60px;
+        line-height: 68px;
+    }
+
+    h1.sub-heading1 {
+        font-size: 60px;
+        line-height: 68px;
+    }
+
+    .text-size-46 {
+        font-size: 42px;
+        line-height: 48px;
+    }
+
+    .text-size-22 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+
+    /* Policy Pages */
+    .privacy-policy-con {
+        padding: 80px 0;
+    }
+
+    /* Back to top button */
+    #button {
+        right: 30px;
+    }
+
+    /* 404 page styling start here*/
+    .error-con .text-size-170 {
+        font-size: 120px;
+        line-height: 125px;
+        margin-bottom: 10px;
+    }
+
+    .error-con p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+
+    /* 404 page styling end here */
+
+    .coming-soon-social-links ul li a {
+        width: 55px;
+        height: 55px;
+    }
+
+    /* coming soon page styling end here */
+    .error-con .text-size-170 i {
+        font-size: 110px;
+        line-height: 130px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 90px;
+    }
+
+    .padding-top {
+        padding-top: 90px;
+    }
+
+    .privacy-policy-content-con p {
+        margin-bottom: 20px;
+    }
+
+    /* FOOTER SECTION */
+
+    .footer-con .middle_portion {
+        padding: 0 0 55px;
+    }
+
+    .footer-con {
+        padding-top: 70px;
+    }
+
+    .footer-con .middle_portion .links li {
+        margin-bottom: 12px;
+        line-height: 23px;
+    }
+
+    .footer-con .middle_portion .contact .text {
+        margin-bottom: 12px;
+        padding-left: 27px;
+        line-height: 20px;
+    }
+
+    .footer-con input {
+        margin-bottom: 12px;
+        padding: 11px 15px 11px 18px;
+        height: 64px;
+    }
+
+    .footer-con .middle_portion .text-size-20 {
+        margin-bottom: 22px;
+    }
+
+    .footer-con .middle_portion .social-icons i {
+        font-size: 15px;
+        height: 43px;
+        width: 43px;
+        line-height: 42px;
+    }
+
+    .footer-con .middle_portion .footer-logo {
+        margin-bottom: 26px;
+    }
+
+    .heading-title-con {
+        margin-bottom: 45px;
+    }
+
+    .why-choose-us-con .choose-us-content-con {
+        padding-left: 0;
+    }
+
+    /* HEADER */
+    .header-contact {
+        margin-left: 30px;
+    }
+
+    .header-con .navbar-expand-lg .navbar-nav {
+        gap: 33px;
+    }
+
+    .header-con ul li:first-child {
+        margin-right: 16px;
+    }
+
+    .header-con {
+        padding: 16px 0;
+    }
+
+    .header-contact ul li a span.number {
+        font-size: 22px;
+    }
+
+    /*  */
+    /* 404 page styling start here*/
+    .error-con .text-size-170 {
+        font-size: 120px;
+        line-height: 125px;
+        margin-bottom: 10px;
+    }
+
+    .error-con p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+
+    /* 404 page styling end here */
+
+    .coming-soon-social-links ul li a {
+        width: 55px;
+        height: 55px;
+    }
+
+    /* coming soon page styling end here */
+    .error-con .text-size-170 i {
+        font-size: 110px;
+        line-height: 110px;
+    }
+
+    .footer-con .col-lg-2,
+    .footer-con .col-lg-3 {
+        padding: 0 15px !important;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p br {
+        display: none;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-left: 70px;
+        margin-bottom: 28px;
+    }
+
+    .banner-con::before {
+        height: 800px;
+    }
+
+    .banner-con::after {
+        height: 800px;
+    }
+
+    .banner-white-box2 {
+        height: 150px;
+        width: 250px;
+        padding: 22px 17px
+    }
+
+    .banner-white-box1 {
+        height: 150px;
+        width: 250px;
+        padding: 22px 17px
+    }
+
+    .banner-con .banner-left-con {
+        height: 800px;
+    }
+
+    .banner-left-con .inner-con1 {
+        margin-bottom: 60px;
+        padding-top: 100px;
+    }
+
+    .text-slider-bar-con {
+        padding: 30px 0 65px;
+    }
+
+    .sub-text-slider-con {
+        padding: 30px 0;
+    }
+
+    .vector {
+        bottom: 0;
+        right: 0;
+        width: 200px;
+    }
+
+    .about-right-con {
+        padding-right: 12%;
+    }
+
+    .about-us-inner-con {
+        gap: 60px;
+        grid-template-columns: 45% 49%;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -9%;
+    }
+
+    .about-us-con .statistics-wrapper {
+        width: 82%;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.digit,
+    .about-us-con .statistics-wrapper .statistics-box sup {
+        font-size: 38px;
+        line-height: 38px;
+        margin-bottom: 10px;
+    }
+
+    .video-left-con,
+    .about-left-con {
+        gap: 15px;
+    }
+
+    .services-box {
+        padding: 36px 30px;
+    }
+
+    .blue-elipse {
+        left: -30px;
+        top: -30px;
+    }
+
+    .patient-trust-con .patient-box {
+        padding: 50px 40px;
+    }
+
+    .vector2 {
+        width: 135px;
+        height: 135px;
+    }
+
+    .patient-trust-con .patient-box ul li {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .book-appointment-con .text-center.mt-4 {
+        margin-top: 15px !important;
+    }
+
+    .video-content-right-con {
+        padding-right: 12%;
+    }
+
+    .video-inner-con {
+        gap: 23px;
+        grid-template-columns: 43% 55%;
+    }
+
+    .video-content-right-con p {
+        line-height: 30px;
+    }
+
+    .video-con .heading-title-con .text-size-46 {
+        margin-bottom: 16px;
+    }
+
+    .video-con .heading-title-con p {
+        margin-bottom: 22px;
+    }
+
+    .video-con .heading-title-con .primary_btn {
+        min-width: 245px;
+    }
+
+    .testimonial-box p {
+        margin-bottom: 20px;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-nav button.owl-next {
+        right: -18px;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-nav button.owl-prev {
+        left: -18px;
+    }
+
+    .news-and-articles-con .article-box .article-bottom-wrap {
+        padding: 50px 17px 25px;
+    }
+
+    .sub-banner-con {
+        padding: 65px 0;
+    }
+
+    .sub-banner-con .sub-banner-content-con p {
+        font-size: 19px;
+        line-height: 30px;
+        margin-bottom: 22px;
+    }
+
+    .who-we-are-con .who-we-are-content-con.var1 {
+        padding-left: 50px;
+    }
+
+    .who-we-are-con .who-we-are-content-con.var2 {
+        padding-right: 42px;
+    }
+
+    .our-dentists-con p {
+        line-height: 30px;
+    }
+
+    .pricing-con .owl-nav button.owl-prev {
+        left: -3%;
+    }
+
+    .pricing-con .owl-nav button.owl-next {
+        right: -3%;
+    }
+
+    .contact-map-con iframe {
+        height: 500px;
+    }
+
+    .faq-con .heading-title-con p {
+        line-height: 30px;
+    }
+
+    .faq-con .accordian-section-inner .sub-heading-four {
+        margin-bottom: 26px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .text-size-80 {
+        font-size: 50px;
+        line-height: 57px;
+        margin-bottom: 19px;
+    }
+
+    h1.sub-heading1 {
+        font-size: 50px;
+        line-height: 57px;
+    }
+
+    .text-size-46 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .text-size-30 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .text-size-24 {
+        font-size: 23px;
+        line-height: 29px;
+    }
+
+    .text-size-22 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    .text-size-20 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    /* .text-size-30 {font-size: 22px; line-height: 28px;} */
+
+    .navbar-nav li {
+        margin: 0 10px
+    }
+
+    .navbar-expand-lg {
+        padding: 12px 0;
+    }
+
+    .navbar-nav .dropdown-menu {
+        top: 27px;
+    }
+
+    /* Policy Pages */
+    .privacy-policy-con {
+        padding: 70px 0;
+    }
+
+    /* Back to top button */
+    #button {
+        width: 60px;
+        height: 60px;
+        bottom: 72px;
+    }
+
+    .error-con .text-size-32 {
+        font-size: 29px;
+        line-height: 30px;
+    }
+
+    /*  header */
+    .header-con .navbar-expand-lg .navbar-nav {
+        gap: 18px;
+    }
+
+    /* sub banner */
+    .padding-bottom {
+        padding-bottom: 80px;
+    }
+
+    .padding-top {
+        padding-top: 80px;
+    }
+
+    .header-con .navbar-light .navbar-nav .dropdown-menu .dropdown-item {
+        padding: 6px 20px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    /* FOOTER SECCTION */
+    .footer-con .logo-content button {
+        color: transparent;
+    }
+
+    .footer-con .logo-content button::before {
+        content: "";
+    }
+
+    .footer-con button {
+        width: 45px;
+        height: 45px;
+        line-height: 44px;
+        padding-right: 0;
+    }
+
+    .footer-con .logo-content button span {
+        background-color: transparent;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        top: 5px;
+        right: 5px;
+    }
+
+    .footer-con input {
+        height: 60px;
+    }
+
+    .footer-con .logo-content button span img {
+        filter: invert(100%);
+    }
+
+    .footer-con {
+        padding-top: 60px;
+    }
+
+    p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .heading-title-con {
+        margin-bottom: 35px;
+    }
+
+    .header-contact {
+        margin-left: 5px;
+    }
+
+    .header-con .navbar-expand-lg .navbar-nav {
+        gap: 9px;
+    }
+
+    .header-contact .contact-btn {
+        min-width: 115px;
+        height: 46px;
+        line-height: 46px;
+    }
+
+    span.call-us-today {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .header-contact ul li .header-phone {
+        width: 46px;
+        height: 46px;
+        line-height: 46px;
+    }
+
+    .header-con {
+        padding-top: 12px !important;
+        padding-bottom: 12px !important;
+    }
+
+    .header-con ul li:first-child {
+        margin-right: 8px;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .header-contact ul li a span.number {
+        font-size: 16px;
+    }
+
+    .footer-con .middle_portion .logo-content {
+        padding-right: 30px;
+    }
+
+    .footer-con .middle_portion .social-icons i {
+        font-size: 14px;
+        height: 38px;
+        width: 38px;
+        line-height: 38px;
+    }
+
+    .footer-con .middle_portion .social-icons li {
+        display: inline-block;
+        margin: 0px 1px;
+    }
+
+    .footer-con .col-lg-2.last-footer-con {
+        padding: 0 10px !important;
+    }
+
+    .footer-con .copyright {
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+
+    .news-and-articles-con .article-box .image_content {
+        top: 53%;
+    }
+
+    .news-and-articles-con .article-box .article-bottom-wrap {
+        padding: 45px 15px 22px;
+    }
+
+    .news-and-articles-con .article-box .image_content .content span {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .news-and-articles-con .article-box .article-bottom-wrap .text-size-22 {
+        margin-bottom: 15px;
+    }
+
+    .testimonial-box {
+        padding: 40px 50px;
+    }
+
+    .testimonial-box .customer-detail .text-size-20 {
+        font-size: 23px;
+        line-height: 29px;
+        margin-bottom: 6px;
+    }
+
+    .video-con .heading-title-con .text-size-46 br {
+        display: none;
+    }
+
+    .vector {
+        width: 180px;
+    }
+
+    .special-text {
+        font-size: 17px;
+        line-height: 26px;
+        margin-bottom: 13px;
+    }
+
+    .book-appointment-con .text-center.mt-4 {
+        margin-top: 0 !important;
+    }
+
+    .custom-input {
+        height: 60px;
+        padding: 14px 18px;
+    }
+
+    .book-appointment-con .col-md-6 {
+        margin-bottom: 25px;
+    }
+
+    .book-appointment-con select.form-control {
+        padding: 0 18px 0 18px;
+        background-position: 95.5% 27px !important;
+    }
+
+    .book-appointment-con .department-tag {
+        height: 28px;
+        left: 31px;
+        top: -27px;
+        font-size: 15px;
+    }
+
+    .book-appointment-con span.error {
+        font-size: 13px;
+        line-height: 13px;
+        margin-top: 5px;
+        left: 24px;
+    }
+
+    .blue-elipse {
+        left: -25px;
+        top: -25px;
+    }
+
+    .patient-trust-con .patient-box {
+        padding: 40px 20px;
+    }
+
+    .patient-trust-con .patient-box .text-size-46 {
+        margin-bottom: 20px;
+    }
+
+    .patient-trust-con .patient-box ul li {
+        font-size: 17px;
+        line-height: 28px;
+    }
+
+    .patient-trust-con .patient-box ul {
+        margin-bottom: 30px;
+    }
+
+    .services-box {
+        padding: 32px 23px;
+    }
+
+    .services-box .text-size-24 {
+        margin-bottom: 15px;
+    }
+
+    .services-box figure {
+        margin-bottom: 20px;
+    }
+
+    .about-right-con .heading-title-con .text-size-46 br {
+        display: none;
+    }
+
+    .about-right-con .heading-title-con .text-size-46 {
+        margin-bottom: 20px;
+    }
+
+    .about-right-con .heading-title-con p {
+        line-height: 28px;
+        margin-bottom: 22px;
+    }
+
+    .about-us-con .about-left-con figure.about-img2::before {
+        width: 220px;
+        height: 280px;
+        right: -10px;
+        bottom: -10px;
+        z-index: -1;
+    }
+
+    .video-left-con,
+    .about-left-con {
+        gap: 10px;
+    }
+
+    .years-experience-con {
+        width: auto;
+        left: 14px;
+        top: 15px;
+        padding: 10px 12px;
+        z-index: 1;
+        gap: 10px;
+    }
+
+    .special-heading4 {
+        font-size: 18px;
+    }
+
+    .years-experience-con span {
+        font-size: 15px;
+        line-height: 17px;
+    }
+
+    .years-experience-con span.digit {
+        font-size: 38px;
+        line-height: 38px;
+    }
+
+    .years-experience-con sup {
+        font-size: 20px;
+    }
+
+    .about-right-con {
+        padding-right: 0;
+    }
+
+    .about-us-inner-con {
+        gap: 37px;
+        grid-template-columns: 47% 49%;
+    }
+
+    .about-us-con .statistics-wrapper {
+        width: 90%;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -19%;
+    }
+
+    .about-right-con .heading-title-con ul li {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 9px;
+        padding-left: 29px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.digit,
+    .about-us-con .statistics-wrapper .statistics-box sup {
+        font-size: 34px;
+        line-height: 34px;
+        margin-bottom: 8px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.span-text {
+        font-size: 15px;
+        line-height: 15px;
+        margin-bottom: 0;
+    }
+
+    .slider-track {
+        gap: 20px;
+    }
+
+    .banner-con::after,
+    .banner-con::before {
+        height: 620px;
+    }
+
+    .banner-con .banner-left-con {
+        height: 620px;
+    }
+
+    h1 br {
+        display: none;
+    }
+
+    .banner-left-con .inner-con1 {
+        margin-bottom: 40px;
+        padding-top: 55px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p::before {
+        top: 14px;
+        width: 40px;
+        height: 3px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p {
+        font-size: 17px;
+        line-height: 28px;
+        padding-left: 48px;
+        margin-bottom: 24px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p br {
+        display: none;
+    }
+
+    .banner-con .main-container.d-flex.align-items-center.justify-content-between {
+        width: 100%;
+    }
+
+    .banner-con .banner-left-con span.service-available-text {
+        width: 240px;
+        margin-bottom: 16px;
+    }
+
+    .banner-left-con .primary_btn {
+        margin-right: 2px;
+        min-width: 216px;
+    }
+
+    .primary_btn,
+    .secondary_btn {
+        font-size: 16px;
+        min-width: 215px;
+        height: 58px;
+        line-height: 58px;
+    }
+
+    .banner-white-box1,
+    .banner-white-box2 {
+        height: auto;
+        width: 200px;
+        padding: 12px 15px;
+    }
+
+    .banner-bottom-con .text-size-20 {
+        margin-bottom: 13px;
+    }
+
+    .banner-con .user-box .user-text span.counter,
+    .banner-con .user-box .user-text span.alphabet,
+    .banner-con .user-box .user-text sup {
+        font-size: 30px;
+        line-height: 26px;
+        font-weight: 700;
+        margin-bottom: 0;
+    }
+
+    .banner-con .user-box .user-text span.span-text {
+        font-size: 15px;
+        line-height: 20px;
+        margin-left: 7px;
+    }
+
+    .banner-video-con {
+        height: 95px;
+        width: 124px;
+    }
+
+    .banner-video-con .video_wrapper img {
+        width: 40px;
+    }
+
+    .banner-con .user-box {
+        margin-left: 12px;
+        width: 193px;
+    }
+
+    .banner-right-con {
+        right: 30px;
+        bottom: 30px;
+    }
+
+    .sub-banner-con .sub-banner-content-con p {
+        font-size: 18px;
+        line-height: 29px;
+        margin-bottom: 20px;
+    }
+
+    .sub-banner-con {
+        padding: 55px 0;
+    }
+
+    .who-we-are-con .who-we-are-content-con.var1 {
+        padding-left: 0;
+    }
+
+    .who-we-are-con .who-we-are-content-con.var2 {
+        padding-right: 0;
+    }
+
+    .our-dentists-con .team-box .designation {
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .our-dentists-con .team-box figure::after {
+        width: 180px;
+        height: 180px;
+    }
+
+    .pricing-con .owl-item .pricing-box {
+        padding: 30px 10px;
+    }
+
+    .pricing-con .pricing-box ul li {
+        font-size: 15px;
+        line-height: 23px;
+        margin-bottom: 7px;
+        padding-left: 24px;
+    }
+
+    .pricing-con .pricing-box p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .pricing-con span.pricing-span-text {
+        font-size: 15px;
+        line-height: 23px;
+        padding-left: 22px;
+        margin-bottom: 18px;
+    }
+
+    .price-content {
+        font-size: 28px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+
+    .pricing-con .owl-carousel .owl-nav button.owl-prev,
+    .pricing-con .owl-carousel .owl-nav button.owl-next {
+        width: 37px;
+        height: 37px;
+        position: relative;
+    }
+
+    .pricing-con .owl-nav {
+        position: relative;
+        width: 80px;
+        margin: 15px auto 0;
+    }
+
+    .contact-info-box {
+        padding: 40px 25px 35px;
+    }
+
+    .contact-map-con iframe {
+        height: 450px;
+    }
+
+    .dental-services-inner-con .dental-service-content-con {
+        padding-left: 0;
+    }
+
+    .dental-service-content-con span.pricing-span-text {
+        margin-bottom: 21px;
+    }
+
+    .dental-service-content-con ul {
+        margin-bottom: 17px;
+    }
+
+    .dental-service-content-con .primary_btn {
+        min-width: 190px;
+    }
+
+    .dental-services-inner-con {
+        padding: 50px;
+    }
+
+    .dental-services-con .container > .dental-services-inner-con:last-child {
+        padding-bottom: 28px;
+    }
+
+    .teeth-whitening-inner-wrap figure img {
+        margin-bottom: 30px;
+    }
+
+    .teeth-whitening-con .text-size-20 {
+        margin-bottom: 18px;
+        font-size: 20px;
+    }
+
+    .difference-con .dfrnc-col-outer {
+        padding-right: 0;
+    }
+
+    .faq-con .accordion-card {
+        margin-bottom: 23px;
+    }
+
+    .faq-con .accordian-section-inner .sub-heading-four {
+        margin-bottom: 23px;
+    }
+
+    .faq-con .accordian-inner .card-header a {
+        padding: 18px 40px 18px 12px;
+    }
+
+    .faq-con .accordion-card .btn-link:before {
+        top: 21px;
+        right: 18px;
+    }
+
+    .faq-con .accordion-card .text-size-20 {
+        font-size: 19px;
+    }
+
+    .faq-con .faq_content {
+        margin-bottom: 42px;
+    }
+
+    .custom-btn.primary_btn span {
+        top: 7px;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link.active {
+        padding-right: 12px !important;
+        padding-left: 12px !important;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link.dropdown-toggle.active {
+        padding-right: 19px !important;
+        padding-left: 12px !important;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .text-size-80 {
+        font-size: 44px;
+        line-height: 50px;
+        margin-bottom: 12px;
+    }
+
+    h1.sub-heading1 {
+        font-size: 44px;
+        line-height: 50px;
+    }
+
+    .text-size-46 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .text-size-30 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .text-size-24 {
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .text-size-22 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    /* Header*/
+    .navbar-toggler {
+        top: 55%;
+        right: 0;
+        padding: 0;
+        width: 30px;
+        border: none;
+        position: absolute;
+        transform: translateY(-65%);
+    }
+
+    .header-con .navbar-expand-lg .navbar-nav {
+        gap: 5px;
+        margin-right: 0;
+        padding: 8px 20px 8px;
+        align-items: start;
+        z-index: 9999;
+        position: relative;
+    }
+
+    .header-con .navbar-light .navbar-nav .dropdown .nav-link::after {
+        top: 15px;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link:hover {
+        color: var(--primary--color);
+        background-color: transparent;
+    }
+
+    .header-con .navbar-nav li {
+        margin-left: 0;
+        padding-bottom: 0;
+        margin-right: 0;
+        width: 100%;
+        cursor: pointer;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link.dropdown-toggle.active {
+        padding-left: 10px !important;
+    }
+
+    .header-con .navbar-light .navbar-nav .dropdown-menu .dropdown-item {
+        color: var(--black--color);
+        padding: 8px 15px;
+        font-size: 14px;
+        line-height: 17px;
+        border-radius: 8px;
+    }
+
+    .header-con .navbar-light .navbar-nav .dropdown-menu {
+        padding: 10px;
+        margin-top: 2px;
+        width: 100%;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        color: var(--black--color);
+        padding: 3px 10px !important;
+        display: block;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-item:last-child a {
+        border-bottom: none;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link::before {
+        display: none;
+    }
+
+    .navbar-toggler-icon {
+        float: left;
+        width: 100%;
+        height: 2px;
+        margin: 3px 0;
+        background: var(--black--color);
+    }
+
+    .navbar-toggler:focus {
+        outline: none;
+    }
+
+    .navbar-toggler .navbar-toggler-icon:nth-child(1),
+    .navbar-toggler .navbar-toggler-icon:nth-child(3) {
+        -webkit-transition: transform .35s ease-in-out;
+        -moz-transition: transform .35s ease-in-out;
+        -o-transition: transform .35s ease-in-out;
+        transition: transform .35s ease-in-out;
+    }
+
+    .navbar-toggler:not(.collapsed) .navbar-toggler-icon:nth-child(1) {
+        position: absolute;
+        top: 5px;
+        -webkit-transform: rotate(135deg);
+        -moz-transform: rotate(135deg);
+        -o-transform: rotate(135deg);
+        transform: rotate(135deg);
+        left: 0px;
+    }
+
+    .navbar-toggler:not(.collapsed) .navbar-toggler-icon:nth-child(2) {
+        height: 12px;
+        visibility: hidden;
+        background-color: transparent;
+    }
+
+    .navbar-toggler:not(.collapsed) .navbar-toggler-icon:nth-child(3) {
+        position: absolute;
+        top: 5px;
+        -webkit-transform: rotate(-135deg);
+        -moz-transform: rotate(-135deg);
+        -o-transform: rotate(-135deg);
+        transform: rotate(-135deg);
+        left: 0px;
+    }
+
+    .navbar-collapse.collapse,
+    .navbar-collapse.collapsing {
+        width: 100%;
+        right: 0;
+        top: 55px;
+        border-radius: 20px;
+        z-index: 999;
+        position: absolute;
+        background-color: var(--secondary--color);
+        box-shadow: 0px 0px 100px rgb(0 0 0 / 10%);
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link.active {
+        color: var(--primary--color);
+        background-color: transparent;
+        text-align: left;
+        width: 100%;
+    }
+
+    .header-contact {
+        margin-left: 0;
+        position: relative;
+        margin-right: 45px;
+    }
+
+    /* Policy Pages */
+    .privacy-policy-con {
+        padding: 60px 0;
+    }
+
+    /* Back to top button */
+    #button {
+        width: 55px;
+        height: 55px;
+        bottom: 74px;
+        right: 30px;
+    }
+
+    #button::after {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    /* coming soon */
+    .coming-soon-con {
+        position: relative;
+        padding: 0;
+    }
+
+    /* 404 page */
+    .error-con .text-size-170 i {
+        font-size: 100px;
+        line-height: 120px;
+    }
+
+    .error-con .generic-btn a {
+        font-size: 16px;
+        padding: 20px 40px;
+    }
+
+    /* coming soon  */
+    .coming-soon-con .new-logo {
+        width: 200px;
+    }
+
+    /* coming soon page */
+    .campaign_countdown ul li {
+        margin: 0 8px;
+        min-height: auto;
+        /* width: 21%; */
+        min-width: 100px;
+        font-size: 18px;
+        padding: 15px 16px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    .text-size-85 {
+        margin-bottom: 28px;
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 60px;
+    }
+
+    .padding-top {
+        padding-top: 60px;
+    }
+
+    .br-50 {
+        border-radius: 30px;
+    }
+
+    .footer-con .middle_portion {
+        padding: 0 0 35px;
+    }
+
+    .footer-con .middle_portion .icon {
+        margin-left: 0;
+    }
+
+    .footer-con .middle_portion .contact {
+        margin-left: -35px;
+    }
+
+    .footer-con .middle_portion .links {
+        padding-left: 0;
+    }
+
+    .footer-con .logo-content {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .footer-con {
+        padding-top: 50px;
+    }
+
+    .footer-con .middle_portion .text-size-20 {
+        margin-bottom: 16px;
+        font-size: 19px;
+    }
+
+    .footer-con .middle_portion .footer-logo {
+        margin-bottom: 19px;
+    }
+
+    .footer-con .middle_portion .links li {
+        margin-bottom: 11px;
+        line-height: 21px;
+    }
+
+    .footer-con .middle_portion .contact a,
+    .footer-con .middle_portion .contact p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .footer-con .middle_portion .contact .text {
+        margin-bottom: 8px;
+        padding-left: 22px;
+        line-height: 18px;
+    }
+
+    .footer-con .middle_portion .logo-content p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .footer-con .copyright {
+        padding-top: 16px;
+        margin-top: 16px;
+    }
+
+    .primary_btn,
+    .secondary_btn {
+        font-size: 15px;
+        min-width: 200px;
+        height: 52px;
+        line-height: 52px;
+    }
+
+    .patient-trust-con .patient-box ul {
+        margin-bottom: 20px;
+    }
+
+    .primary_btn span,
+    .secondary_btn span {
+        top: 50%;
+        transform: translateY(-50%);
+        right: 6px;
+    }
+
+    .heading-title-con {
+        margin-bottom: 30px;
+    }
+
+    /* coming soon */
+    .coming-soon-con {
+        position: relative;
+        padding: 0;
+    }
+
+    /* 404 page */
+    .error-con .text-size-170 i {
+        font-size: 100px;
+        line-height: 100px;
+    }
+
+    .error-con .generic-btn a {
+        font-size: 16px;
+        padding: 20px 40px;
+    }
+
+    /* coming soon  */
+    .coming-soon-con .new-logo {
+        width: 200px;
+    }
+
+    /* coming soon page */
+    .campaign_countdown ul li {
+        margin: 0 8px;
+        min-height: auto;
+        /* width: 21%; */
+        min-width: 100px;
+        font-size: 18px;
+        padding: 15px 16px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 42px;
+        line-height: 45px;
+    }
+
+    .text-size-85 {
+        margin-bottom: 28px;
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    .text-size-36 {
+        font-size: 30px;
+        line-height: 26px;
+    }
+
+    /* Login Page */
+    .login-form .login-form-title {
+        margin-bottom: 30px;
+    }
+
+    .login-form .login-card .btn-primary {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .login-form .login-card .forgot-password {
+        font-size: 16px;
+    }
+
+    .login-form .login-form-box .join-now-outer a {
+        font-size: 16px;
+    }
+
+    .login-page-logo img {
+        width: 190px;
+    }
+
+    .footer-con .middle_portion .logo-content {
+        padding-right: 0;
+    }
+
+    .footer-con .middle_portion .contact .text-size-20 {
+        margin-bottom: 20px;
+    }
+
+    .news-and-articles-con .article-box .image_content {
+        top: 160px;
+    }
+
+    .news-and-articles-con .article-box .article-bottom-wrap .text-size-22 {
+        margin-bottom: 12px;
+    }
+
+    .special-text {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 11px;
+    }
+
+    .testimonials-con ul li figure img {
+        height: 44px;
+    }
+
+    .testimonials-con .swiper-slide .testimonial-box,
+    .testimonials-con .owl-carousel .testimonial-box {
+        margin-bottom: 30px;
+    }
+
+    .testimonial-box p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .testimonial-box {
+        padding: 30px 25px;
+    }
+
+    .testimonial-box p {
+        margin-bottom: 16px;
+    }
+
+    .testimonial-box .customer-detail .text-size-20 {
+        font-size: 21px;
+        line-height: 27px;
+        margin-bottom: 5px;
+    }
+
+    .testimonials-con .swiper-slide .testimonial-box img,
+    .testimonials-con .owl-carousel .owl-item img {
+        margin: 0 auto 24px;
+    }
+
+    .video-content-right-con {
+        padding-right: 0%;
+    }
+
+    .video-content-right-con p {
+        line-height: 28px;
+    }
+
+    .video-con .heading-title-con .text-size-46 {
+        margin-bottom: 14px;
+    }
+
+    .video-con .heading-title-con p {
+        margin-bottom: 19px;
+    }
+
+    .video-con .heading-title-con .primary_btn {
+        min-width: 225px;
+    }
+
+    .video-inner-con {
+        gap: 22px;
+        grid-template-columns: 49% 48%;
+    }
+
+    .custom-input {
+        height: 56px;
+        padding: 10px 14px;
+    }
+
+    .book-appointment-con .col-md-6 {
+        margin-bottom: 24px;
+        padding: 0 10px !important;
+    }
+
+    .book-appointment-con .col-md-4 {
+        margin-bottom: 24px;
+        padding: 0 10px !important;
+    }
+
+    .book-appointment-con select.form-control {
+        padding: 0 14px 0 14px;
+        background-position: 95.5% 25px !important;
+    }
+
+    .custom-btn.primary_btn {
+        min-width: 250px;
+        font-size: 15px;
+    }
+
+    .custom-btn.primary_btn span {
+        top: 6px;
+    }
+
+    .book-appointment-con .department-tag {
+        height: 26px;
+        left: 31px;
+        width: 134px;
+        top: -26px;
+        font-size: 14px;
+    }
+
+    .patient-trust-con .patient-box .text-size-46 br {
+        display: none;
+    }
+
+    .patient-trust-con .patient-box ul li {
+        font-size: 15px;
+        padding-left: 23px;
+        margin-bottom: 10px;
+        line-height: 20px;
+    }
+
+    .patient-trust-con .patient-box {
+        padding: 30px 17px;
+    }
+
+    .patient-trust-con .row {
+        align-items: center;
+    }
+
+    .patient-trust-con .patient-img-con figure.vector2 img {
+        width: 70px;
+    }
+
+    .vector2 {
+        width: 110px;
+        height: 110px;
+    }
+
+    .blue-elipse {
+        left: -20px;
+        top: -20px;
+    }
+
+    .blue-elipse img {
+        width: 90px;
+    }
+
+    .services-con .col-lg-4.col-md-6 {
+        margin-bottom: 25px;
+    }
+
+    .services-con .col-lg-4.col-md-6:nth-last-of-type(-n+3) {
+        margin-bottom: 25px;
+    }
+
+    .services-con .col-lg-4.col-md-6:nth-last-of-type(-n+2) {
+        margin-bottom: 0;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.digit,
+    .about-us-con .statistics-wrapper .statistics-box sup {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 7px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.span-text {
+        font-size: 14px;
+        line-height: 14px;
+        margin-bottom: 0;
+    }
+
+    .about-us-con .statistics-wrapper {
+        width: 95%;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -5%;
+        display: none;
+    }
+
+    .about-right-con .heading-title-con ul li {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 8px;
+        padding-left: 28px;
+    }
+
+    .about-right-con .heading-title-con ul li i {
+        top: 3px;
+    }
+
+    body {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    .about-us-con .about-left-con figure.about-img2::before {
+        width: 165px;
+        height: 215px;
+        right: -10px;
+        bottom: -10px;
+        z-index: -1;
+    }
+
+    .years-experience-con span.digit {
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    .years-experience-con sup {
+        font-size: 18px;
+    }
+
+    .years-experience-con span {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .about-us-inner-con {
+        gap: 23px;
+        grid-template-columns: 48% 49%;
+    }
+
+    .about-right-con .heading-title-con p {
+        line-height: 27px;
+        margin-bottom: 16px;
+    }
+
+    .about-right-con .heading-title-con span.smilora-text {
+        margin-bottom: 5px;
+        line-height: 26px;
+    }
+
+    .about-right-con .heading-title-con .text-size-46 {
+        margin-bottom: 15px;
+    }
+
+    .about-right-con .heading-title-con ul {
+        margin-bottom: 30px;
+    }
+
+    .banner-left-con .primary_btn {
+        margin-right: 2px;
+        min-width: 170px;
+        font-size: 14px;
+    }
+
+    .banner-left-con .secondary_btn {
+        min-width: 170px;
+        font-size: 14px;
+    }
+
+    .primary_btn span,
+    .elementary_btn span,
+    .secondary_btn span {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+    }
+
+    .primary_btn span,
+    .secondary_btn span {
+        top: 50%;
+        transform: translateY(-50%);
+        right: 6px;
+    }
+
+    .banner-left-con .inner-con1 {
+        margin-bottom: 40px;
+        padding-top: 50px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p {
+        font-size: 15px;
+        line-height: 25px;
+        padding-left: 45px;
+        margin-bottom: 19px;
+        padding-right: 2%;
+    }
+
+    .banner-con .banner-left-con {
+        height: 550px;
+    }
+
+    .banner-con::after,
+    .banner-con::before {
+        height: 550px;
+    }
+
+    .banner-right-con {
+        right: 10px;
+        bottom: 20px;
+    }
+
+    .banner-white-box1,
+    .banner-white-box2 {
+        height: auto;
+        width: 168px;
+        padding: 11px 13px;
+    }
+
+    .banner-bottom-con .text-size-20 {
+        margin-bottom: 13px;
+        font-size: 17px;
+    }
+
+    .banner-bottom-con .purple-btn {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+    }
+
+    .text-size-80 {
+        font-size: 40px;
+        line-height: 47px;
+    }
+
+    .topbar-con {
+        margin-top: 12px;
+    }
+
+    .topbar-con .top-bar-inner-content ul li {
+        padding: 0 12px;
+    }
+
+    .sub-banner-con .sub-banner-content-con p {
+        font-size: 17px;
+        line-height: 27px;
+        margin-bottom: 18px;
+    }
+
+    .breadcrumb-item {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 15px;
+    }
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        padding: 0 8px;
+    }
+
+    .heading4 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .who-we-are-con .who-we-are-content-con .text-size-24 {
+        margin-bottom: 15px;
+    }
+
+    .our-dentists-con .team-box figure img {
+        border-radius: 100%;
+        transition: ease-in-out 0.6s;
+    }
+
+    .our-dentists-con .col-lg-3.col-md-6:nth-last-of-type(-n+4) {
+        margin-bottom: 25px;
+    }
+
+    .our-dentists-con .col-lg-3.col-md-6:nth-last-of-type(-n+2) {
+        margin-bottom: 0;
+    }
+
+    .our-dentists-con .team-box figure,
+    .our-dentists-con .team-box figure {
+        margin-bottom: 16px;
+    }
+
+    .cta-con .text-size-30 {
+        margin-bottom: 25px;
+    }
+
+    .cta-con {
+        padding: 45px 0 45px;
+    }
+
+    .elementary_btn {
+        font-size: 16px;
+        min-width: 280px;
+        padding: 0;
+        height: 55px;
+        line-height: 55px;
+        padding-right: 38px;
+    }
+
+    .our-dentists-con .team-box figure::after {
+        width: 220px;
+        height: 220px;
+    }
+
+    .our-dentists-con p {
+        line-height: 28px;
+    }
+
+    .our-dentists-con .col-lg-3.col-md-6 {
+        margin-bottom: 25px;
+    }
+
+    .privacy-policy-content-con p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .top-bar-inner-content {
+        padding: 0 9px;
+    }
+
+    .pricing-con .owl-item .pricing-box {
+        padding: 30px 24px;
+    }
+
+    .sub-text-slider-con {
+        padding: 20px 0;
+    }
+
+    .pricing-con span.pricing-span-text {
+        margin-bottom: 13px;
+    }
+
+    .contact-info-con .col-lg-4.col-md-6 {
+        margin-bottom: 30px;
+    }
+
+    .contact-info-con .col-lg-4.col-md-6:last-child {
+        margin: 0 auto;
+    }
+
+    .contact-info-box {
+        padding: 35px 20px 35px;
+    }
+
+    .contact-map-con iframe {
+        height: 400px;
+    }
+
+    .dental-services-inner-con {
+        padding: 35px 25px;
+    }
+
+    .dental-services-con .container > .dental-services-inner-con:last-child {
+        padding-bottom: 22px;
+    }
+
+    .dental-service-img-con::before {
+        width: 80px;
+        height: 80px;
+        left: -12px;
+        top: -12px;
+    }
+
+    .dental-services-inner-con.background-bg .dental-service-img-con::before {
+        right: -12px;
+    }
+
+    .difference-con .heading-title-con p br {
+        display: none;
+    }
+
+    .cta-smile-con .elementary_btn {
+        min-width: 310px;
+    }
+
+    /*  */
+    .faq-con .accordian-section-inner .sub-heading-four {
+        margin-bottom: 19px;
+    }
+
+    .faq-con .accordion-card {
+        margin-bottom: 18px;
+    }
+
+    .faq-con .col-lg-6 {
+        margin-bottom: 23px;
+    }
+
+    .faq-con .faq_content {
+        margin-bottom: 0;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link.active {
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .text-size-80 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 12px;
+    }
+
+    h1.sub-heading1 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+
+    .text-size-46 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    /* .text-size-30 {font-size: 18px; line-height: 24px;} */
+
+    .text-size-18 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .text-size-16 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .text-size-14 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .navbar-collapse {
+        top: 64px;
+    }
+
+    .navbar-expand-lg {
+        padding: 10px 0;
+    }
+
+    .navbar-nav .nav-item a {
+        font-size: 15px !important;
+        line-height: 15px !important;
+    }
+
+    /* Policy Pages */
+    .privacy-policy-con {
+        padding: 40px 0;
+    }
+
+    /* Back to top button */
+    #button {
+        width: 50px;
+        height: 50px;
+        right: 30px;
+    }
+
+    /* coming soon page  */
+    .error-con .generic-btn a {
+        padding: 16px 30px;
+        font-size: 15px;
+    }
+
+    .coming-soon-social-links ul li a {
+        width: 45px;
+        height: 45px;
+    }
+
+    .coming-soon-social-links ul {
+        margin-bottom: 26px;
+    }
+
+    .error-con {
+        padding: 0;
+    }
+
+    /* 404 */
+    .error-con p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .error-con .text-size-170 {
+        font-size: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .error-con .secondary-button a {
+        min-width: 200px;
+    }
+
+    /* coming soon page styling */
+    .campaign_countdown ul li {
+        margin: 0 8px;
+        min-width: 84px;
+        padding: 15px;
+        font-size: 16px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .campaign_countdown ul {
+        float: left;
+        width: 100%;
+        min-width: 100%;
+        display: inline-block;
+        margin: 0 auto;
+        max-width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .text-size-85 {
+        margin-bottom: 22px;
+        font-size: 46px;
+        line-height: 46px;
+    }
+
+    .text-size-36 {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+
+    .coming-soon-con .new-logo {
+        width: 170px;
+    }
+
+    .error-con .text-size-32 {
+        font-size: 21px;
+        line-height: 22px;
+        margin-bottom: 18px;
+    }
+
+    .error-con .text-size-170 i {
+        font-size: 85px;
+        line-height: 97px;
+    }
+
+    .error-con p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .error-con .text-size-170 {
+        font-size: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .error-con .secondary-button a {
+        min-width: 210px;
+        font-size: 15px;
+    }
+
+    .error-con .primary_btn {
+        min-width: 210px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 50px;
+    }
+
+    .padding-top {
+        padding-top: 50px;
+    }
+
+    /*  */
+    .br-50 {
+        border-radius: 20px;
+    }
+
+    .footer-con .middle_portion .icon {
+        text-align: center;
+    }
+
+    .footer-con {
+        padding-top: 40px;
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+
+    .footer-con .middle_portion .contact {
+        margin-left: -35px;
+        margin-bottom: 25px;
+    }
+
+    .footer-con .middle_portion .links li a {
+        font-size: 13px;
+        line-height: 13px;
+        padding-left: 12px;
+    }
+
+    .footer-con .middle_portion .links li {
+        margin-bottom: 10px;
+        line-height: 20px;
+    }
+
+    .footer-con .middle_portion {
+        padding: 0 0 25px;
+    }
+
+    .footer-con .middle_portion .text-size-20 {
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+
+    .footer-con .middle_portion .social-icons i {
+        font-size: 14px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+
+    .footer-con .copyright {
+        padding-top: 14px;
+        margin-top: 14px;
+    }
+
+    .footer-con .middle_portion .logo-content .copyright p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .footer-con .middle_portion .links {
+        padding-left: 40px;
+    }
+
+    .footer-con input {
+        height: 55px;
+    }
+
+    .footer-con button {
+        width: 41px;
+        height: 41px;
+        line-height: 41px;
+    }
+
+    .footer-con .logo-content button span {
+        width: 31px;
+        height: 31px;
+        line-height: 31px;
+        top: 4px;
+        right: 5px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link {
+        padding: 7px 10px !important;
+    }
+
+    .header-con .navbar-light .navbar-nav .nav-link.active {
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+    }
+
+    .primary_btn span,
+    .secondary_btn span {
+        top: 50%;
+        transform: translateY(-50%);
+        right: 6px;
+    }
+
+    .header-con .navbar-light .navbar-nav .dropdown .nav-link::after {
+        top: 14px;
+    }
+
+    /* coming soon page  */
+    .error-con .generic-btn a {
+        padding: 16px 30px;
+        font-size: 15px;
+    }
+
+    .coming-soon-social-links ul li a {
+        width: 45px;
+        height: 45px;
+    }
+
+    .coming-soon-social-links ul {
+        margin-bottom: 26px;
+    }
+
+    .error-con {
+        padding: 0;
+    }
+
+    /* 404 */
+    .error-con p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .error-con .text-size-170 {
+        font-size: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .error-con .secondary-button a {
+        min-width: 200px;
+    }
+
+    /* coming soon page styling */
+    .campaign_countdown ul li {
+        margin: 0 8px;
+        min-width: 84px;
+        padding: 15px;
+        font-size: 16px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .campaign_countdown ul {
+        float: left;
+        width: 100%;
+        min-width: 100%;
+        display: inline-block;
+        margin: 0 auto;
+        max-width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .text-size-85 {
+        margin-bottom: 22px;
+        font-size: 46px;
+        line-height: 46px;
+    }
+
+    .text-size-36 {
+        font-size: 23px;
+        margin-bottom: 16px;
+    }
+
+    .coming-soon-con .new-logo {
+        width: 170px;
+    }
+
+    .error-con .text-size-32 {
+        font-size: 21px;
+        line-height: 22px;
+        margin-bottom: 18px;
+    }
+
+    .error-con .text-size-170 i {
+        font-size: 85px;
+        line-height: 85px;
+    }
+
+    .error-con p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .error-con .text-size-170 {
+        font-size: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .error-con .secondary-button a {
+        min-width: 210px;
+        font-size: 15px;
+    }
+
+    .error-con p br {
+        display: none;
+    }
+
+    /* Login page */
+    .login-form .login-form-box {
+        width: 450px;
+    }
+
+    .login-form .login-form-title {
+        margin-bottom: 20px;
+    }
+
+    .login-form .login-card .btn-primary {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 14px 20px;
+    }
+
+    .login-form .login-card .forgot-password {
+        font-size: 14px;
+    }
+
+    .login-form .login-card label {
+        font-size: 15px;
+    }
+
+    .login-form .login-card .input-field {
+        font-size: 14px;
+        padding: 0 15px;
+        height: 46px;
+        line-height: 42px;
+    }
+
+    .login-form .login-card {
+        margin-bottom: 20px;
+    }
+
+    .login-form .login-form-box .join-now-outer a {
+        font-size: 14px;
+    }
+
+    .sign-up-form .login-card .select-option {
+        padding: 0 30px 0 15px;
+        background-position: 96.5% 20px !important;
+    }
+
+    .login-page-logo img {
+        width: 170px;
+    }
+
+    .footer-con .middle_portion .logo-content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .footer-con .middle_portion .footer-logo {
+        margin-bottom: 15px;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-item {
+        justify-content: center;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-nav button.owl-prev {
+        left: 8%;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-nav button.owl-next {
+        right: 8%;
+    }
+
+    .news-and-articles-con .article-box .article-bottom-wrap {
+        padding: 34px 15px 20px;
+    }
+
+    .news-and-articles-con .article-box .image_content {
+        top: 60%;
+        height: 98px;
+        width: 98px;
+        line-height: 98px;
+    }
+
+    .heading-title-con {
+        margin-bottom: 26px;
+    }
+
+    .testimonials-con ul li figure img {
+        height: 34px;
+    }
+
+    .testimonial-box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .testimonials-con .owl-nav button.owl-prev {
+        top: 12%;
+        left: 23%;
+    }
+
+    .testimonials-con .owl-nav button.owl-next {
+        top: 12%;
+        right: 23%;
+    }
+
+    .testimonials-con .owl-theme .owl-nav {
+        margin-top: 0 !important;
+    }
+
+    .testimonial-box .customer-detail .text-size-20 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 4px;
+    }
+
+    .testimonial-box .customer-detail .designation {
+        font-size: 13px;
+        line-height: 19px;
+    }
+
+    .video-inner-con {
+        gap: 22px;
+        grid-template-columns: 100%;
+    }
+
+    .video-con {
+        text-align: center;
+    }
+
+    .video-con .heading-title-con .primary_btn {
+        min-width: 200px;
+    }
+
+    .video-content-right-con p {
+        line-height: 26px;
+    }
+
+    .book-apointment-inner-con .heading-title-con {
+        margin-bottom: 35px;
+    }
+
+    .custom-input {
+        height: 52px;
+        padding: 9px 12px;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    .patient-trust-con .patient-img-con figure.vector2 img {
+        width: 60px;
+    }
+
+    .vector2 {
+        width: 100px;
+        height: 100px;
+    }
+
+    .patient-trust-con .col-lg-6 {
+        margin-bottom: 20px;
+    }
+
+    .patient-trust-con .col-lg-6:last-child {
+        margin-bottom: 0;
+    }
+
+    .patient-trust-con .patient-box {
+        padding: 20px 20px;
+        text-align: center;
+    }
+
+    .patient-trust-con .patient-box ul {
+        text-align: left;
+        width: 344px;
+        margin: 0 auto 20px;
+    }
+
+    .blue-elipse img {
+        width: 80px;
+    }
+
+    .detal-list-con ul,
+    .detal-list-con .pricing-span-text {
+        text-align: left;
+    }
+
+    .services-con .col-lg-4.col-md-6:nth-last-of-type(-n+2) {
+        margin-bottom: 25px;
+    }
+
+    .services-con .col-lg-4.col-md-6:nth-last-of-type(-n+1) {
+        margin-bottom: 0;
+    }
+
+    .services-box {
+        text-align: center;
+        padding: 30px 25px;
+    }
+
+    .services-box .text-size-24 {
+        margin-bottom: 13px;
+    }
+
+    .services-box figure {
+        text-align: center;
+        margin: 0 auto 18px;
+    }
+
+    .about-us-con .about-left-con figure.about-img2::before {
+        display: none;
+    }
+
+    .about-us-inner-con {
+        gap: 23px;
+        grid-template-columns: 100%;
+    }
+
+    .about-right-con {
+        text-align: center;
+    }
+
+    .about-right-con .heading-title-con ul {
+        width: 287px;
+        text-align: left;
+        margin: 0 auto 30px;
+    }
+
+    .about-us-con .statistics-wrapper {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        gap: 35px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -17%;
+        height: 54px;
+    }
+
+    .video-left-con,
+    .about-left-con {
+        gap: 18px;
+    }
+
+    .banner-con::before {
+        width: 100%;
+        border-radius: 20px;
+    }
+
+    .banner-con .banner-left-con {
+        width: 100%;
+        height: auto;
+    }
+
+    .banner-con {
+        text-align: center;
+    }
+
+    .banner-con::after {
+        width: 100%;
+        opacity: 64%;
+        border-radius: 20px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p {
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 16px;
+        padding: 0 6%;
+    }
+
+    .banner-con::before,
+    .banner-con::after {
+        height: 100%;
+    }
+
+    .banner-con .user-box {
+        margin-left: 17px;
+        text-align: left;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p::before {
+        display: none;
+    }
+
+    .text-size-80 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+
+    .banner-left-con .primary_btn {
+        margin-right: 2px;
+        min-width: 190px;
+        font-size: 14px;
+    }
+
+    .banner-left-con .secondary_btn {
+        min-width: 190px;
+        font-size: 14px;
+    }
+
+    .banner-bottom-con {
+        gap: 18px;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .banner-right-con .inner-con2 {
+        justify-content: center;
+    }
+
+    .banner-bottom-con .text-size-20 {
+        margin-bottom: 13px;
+        font-size: 17px;
+        text-align: left;
+    }
+
+    .banner-right-con {
+        right: unset;
+        bottom: unset;
+        position: relative;
+        z-index: 1;
+        width: 65%;
+        margin: 0px auto 20px;
+    }
+
+    .banner-left-con .inner-con1 {
+        margin-bottom: 20px;
+        padding-top: 35px;
+    }
+
+    .banner-con .main-container.d-flex.align-items-center.justify-content-between {
+        width: 100%;
+        display: block !important;
+    }
+
+    .custom-btn.primary_btn span {
+        top: 5px;
+    }
+
+    .book-appointment-con select.form-control {
+        padding: 0 12px 0 12px;
+        background-position: 96% 23px !important;
+    }
+
+    .top-bar-inner-content {
+        display: block !important;
+    }
+
+    .top-bar-inner-content {
+        padding: 5px 9px;
+    }
+
+    .topbar-con .top-bar-inner-content p {
+        font-size: 14px;
+        line-height: 14px;
+        text-align: center;
+        margin-bottom: 10px !important;
+    }
+
+    .topbar-con .top-bar-inner-content ul {
+        justify-content: center;
+    }
+
+    .text-slider-bar-con {
+        padding: 25px 0 60px;
+    }
+
+    .sub-text-slider-con {
+        padding: 20px 0;
+    }
+
+    .special-heading4 {
+        font-size: 16px;
+    }
+
+    .slider-track {
+        gap: 14px;
+    }
+
+    .star-icon {
+        width: 32px;
+        height: 28px;
+        opacity: 0.8;
+    }
+
+    .banner-white-box1,
+    .banner-white-box2 {
+        height: auto;
+        width: 200px;
+    }
+
+    .sub-banner-con .sub-banner-content-con p br {
+        display: none;
+    }
+
+    .sub-banner-con .sub-banner-content-con p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 17px;
+    }
+
+    .sub-banner-con {
+        padding: 40px 0;
+    }
+
+    .who-we-are-con {
+        text-align: center;
+    }
+
+    .who-we-are-img-con {
+        margin-bottom: 20px;
+    }
+
+    .who-we-are-con .row {
+        margin-bottom: 40px;
+    }
+
+    .our-dentists-con p {
+        line-height: 26px;
+    }
+
+    .our-dentists-con .col-lg-3.col-md-6:nth-last-of-type(-n+2) {
+        margin-bottom: 25px;
+    }
+
+    .our-dentists-con .col-lg-3.col-md-6:nth-last-of-type(-n+1) {
+        margin-bottom: 0;
+    }
+
+    .privacy-policy-content-con p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .privacy-policy-content-con ul li {
+        padding-left: 22px;
+        margin-bottom: 8px;
+        text-align: left;
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .pricing-con .owl-carousel .owl-item {
+        justify-content: center;
+    }
+
+    .price-content {
+        font-size: 25px;
+        line-height: 25px;
+        margin-bottom: 17px;
+    }
+
+    .pricing-con .price-list-wrapper ul li {
+        font-size: 15px;
+        padding-left: 24px;
+        line-height: 21px;
+        text-align: left;
+    }
+
+    .pricing-con .price-list-wrapper ul li i {
+        top: 5px;
+        font-size: 15px;
+    }
+
+    .contact-info-box figure img {
+        margin-bottom: 25px;
+    }
+
+    .contact-info-box a,
+    .contact-info-box p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .contact-info-box {
+        padding: 30px 18px 30px;
+    }
+
+    .contact-map-con iframe {
+        height: 350px;
+    }
+
+    .dental-service-img-con {
+        margin-bottom: 20px;
+    }
+
+    .teeth-whitening-inner-wrap figure img {
+        margin-bottom: 25px;
+    }
+
+    .teeth-whitening-inner-wrap p {
+        margin-bottom: 20px;
+    }
+
+    .teeth-whitening-con .dental-service-content-con ul {
+        margin-bottom: 18px;
+        text-align: left;
+    }
+
+    .dental-service-content-con {
+        width: 400px;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+
+    .difference-con .dfrnc-col-outer {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .teeth-whitening-inner-wrap {
+        text-align: center;
+    }
+
+    .teeth-whitening-con .text-size-20 {
+        text-align: center;
+    }
+
+    .difference-con .dfrnc-col-outer {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .difference-con .heading-title-con {
+        text-align: center;
+    }
+
+    .difference-con ul li {
+        text-align: left;
+    }
+
+    .difference-con .text-size-46 {
+        margin-bottom: 12px;
+    }
+
+    .cta-smile-con .cta-inner-con {
+        display: block !important;
+        text-align: center;
+    }
+
+    .cta-smile-con .text-size-30 {
+        margin-bottom: 20px !important;
+    }
+
+    .teeth-whitening-con .dental-service-content-con .primary_btn {
+        min-width: 220px;
+    }
+
+    .faq-con .accordion-card .text-size-20 {
+        font-size: 18px;
+    }
+
+    .faq-con .accordion-card p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .faq-con .heading-title-con p br {
+        display: none;
+    }
+
+    .faq-con .heading-title-con p {
+        line-height: 28px;
+        font-size: 16px;
+    }
+
+    .custom-btn.primary_btn span {
+        top: 6px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .text-size-80 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    h1.sub-heading1 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .text-size-46 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .text-size-30 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .text-size-24 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .text-size-22 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .text-size-20 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .navbar-collapse {
+        top: 58px;
+    }
+
+    .navbar-nav .nav-item a {
+        padding: 10px 10px !important;
+    }
+
+    .navbar-nav .drop-down-pages .nav-item a {
+        padding: 10px 30px !important;
+    }
+
+    /* Policy Pages */
+    .privacy-policy-con .text-size-22 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    /* Back to top button */
+    #button {
+        width: 45px;
+        height: 45px;
+        right: 35px;
+        bottom: 35px;
+    }
+
+    #button::after {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    /* 404 page */
+    .error-con .text-size-170 {
+        font-size: 70px;
+        line-height: 70px;
+        margin-bottom: 10px;
+    }
+
+    .error-con p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+
+    .error-con p br {
+        display: none;
+    }
+
+    .error-con .generic-btn a {
+        padding: 16px 28px;
+        font-size: 14px;
+    }
+
+    /* 404 page */
+
+    .coming-soon-social-links ul {
+        margin-bottom: 16px;
+    }
+
+    .error-con .text-size-32 {
+        font-size: 21px;
+        line-height: 30px;
+        margin-bottom: 14px;
+    }
+
+    .error-con .primary-btn {
+        min-width: 200px;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 600;
+        height: 54px;
+        border-radius: 30px;
+        padding: 12px 20px;
+    }
+
+    .text-size-36 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .text-size-85 {
+        margin-bottom: 20px;
+        font-size: 38px;
+        line-height: 38px;
+    }
+
+    .campaign_countdown ul li {
+        margin: 0 5px;
+        min-width: auto;
+        padding: 12px 18px;
+        font-size: 15px;
+        border-radius: 15px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 27px;
+        line-height: 27px;
+    }
+
+    .error-con .text-size-170 i {
+        font-size: 65px;
+        line-height: 75px;
+    }
+
+    .error-con .primary_btn span {
+        left: 7px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 40px;
+    }
+
+    .padding-top {
+        padding-top: 40px;
+    }
+
+    .privacy-policy-content-con .text-size-46 {
+        margin-bottom: 18px;
+    }
+
+    .privacy-policy-content-con .text-size-24 {
+        margin-bottom: 11px;
+    }
+
+    .privacy-policy-content-con {
+        /* text-align: center; */
+    }
+
+    .privacy-policy-content-con .row {
+        margin: 0;
+    }
+
+    p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    /*  */
+    .footer-con .middle_portion .links {
+        padding-left: 0;
+    }
+
+    .spacer {
+        height: 10px;
+    }
+
+    .footer-con .middle_portion .text-size-20 {
+        margin-bottom: 13px;
+    }
+
+    .footer-con .middle_portion {
+        padding: 0 0 20px;
+    }
+
+    .footer-con .middle_portion .links {
+        padding-left: 0;
+        padding-bottom: 20px;
+    }
+
+    .footer-con {
+        text-align: center;
+    }
+
+    .footer-con .contact ul {
+        text-align: left;
+        margin: 0 auto;
+        width: 153px;
+    }
+
+    .footer-con .middle_portion .contact i {
+        font-size: 12px;
+        left: 0;
+        top: 7px;
+    }
+
+    .footer-con .logo-content {
+        margin-bottom: 20px;
+    }
+
+    .special-text {
+        font-size: 15px;
+    }
+
+    .footer-con .middle_portion .links li {
+        text-align: left;
+    }
+
+    .footer-con .middle_portion .links ul {
+        margin: 0 auto;
+        width: 130px;
+    }
+
+    .footer-con {
+        padding-top: 30px;
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+    }
+
+    .primary_btn,
+    .secondary_btn {
+        min-width: 180px;
+        height: 48px;
+        line-height: 48px;
+        font-size: 15px;
+    }
+
+    .privacy-policy-content-con .col-12 {
+        padding: 0;
+    }
+
+    /*  */
+    /* 404 page */
+    .error-con .text-size-170 {
+        font-size: 70px;
+        line-height: 70px;
+        margin-bottom: 10px;
+    }
+
+    .error-con p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+
+    .error-con p br {
+        display: none;
+    }
+
+    .error-con .generic-btn a {
+        padding: 16px 28px;
+        font-size: 14px;
+    }
+
+    /* 404 page */
+
+    .coming-soon-social-links ul {
+        margin-bottom: 16px;
+    }
+
+    .error-con .text-size-32 {
+        font-size: 21px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .error-con .primary-btn {
+        min-width: 200px;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 600;
+        height: 54px;
+        border-radius: 30px;
+        padding: 12px 20px;
+    }
+
+    .text-size-36 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .text-size-85 {
+        margin-bottom: 20px;
+        font-size: 38px;
+        line-height: 38px;
+    }
+
+    .campaign_countdown ul li {
+        margin: 0 5px;
+        min-width: auto;
+        padding: 9px 18px;
+        font-size: 15px;
+        border-radius: 15px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 27px;
+        line-height: 27px;
+    }
+
+    .error-con .text-size-170 i {
+        font-size: 65px;
+        line-height: 65px;
+    }
+
+    .error-con .primary_btn {
+        min-width: 200px;
+    }
+
+    /* Login Page */
+    .login-form .login-page-logo {
+        margin-bottom: 20px;
+    }
+
+    .login-form .login-card {
+        padding: 25px 20px;
+    }
+
+    .login-form .login-form-box {
+        width: 100%;
+    }
+
+    .sign-up-form .login-card .select-option {
+        padding: 0 30px 0 15px;
+    }
+
+    .login-page-logo img {
+        width: 150px;
+    }
+
+    .header-contact {
+        display: none;
+    }
+
+    .topbar-con .top-bar-inner-content p {
+        font-size: 13px;
+        line-height: 18px;
+        text-align: center;
+        margin-bottom: 6px !important;
+    }
+
+    .header-con {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+
+    .banner-con .banner-left-con span.service-available-text {
+        width: 220px;
+        margin-bottom: 12px;
+        padding: 3px 7px;
+        font-size: 14px;
+    }
+
+    .banner-con .banner-left-con span.service-available-text::before {
+        left: 15px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 15px;
+        padding: 0%;
+    }
+
+    .banner-left-con .primary_btn {
+        margin-right: 0;
+        min-width: 173px;
+        font-size: 13px;
+        padding-right: 20px;
+    }
+
+    .primary_btn span,
+    .secondary_btn span {
+        top: 50%;
+        transform: translateY(-50%);
+        right: 6px;
+    }
+
+    .banner-left-con .secondary_btn {
+        min-width: 173px;
+        font-size: 13px;
+        padding-right: 20px;
+    }
+
+    .banner-white-box1,
+    .banner-white-box2 {
+        height: auto;
+        width: 138px;
+        padding: 10px;
+    }
+
+    .banner-bottom-con .text-size-20 {
+        margin-bottom: 11px;
+        font-size: 15px;
+        line-height: 19px;
+        text-align: left;
+    }
+
+    .banner-bottom-con .purple-btn {
+        width: 34px;
+        height: 34px;
+        line-height: 34px;
+    }
+
+    .banner-right-con {
+        width: 94%;
+        margin: 0px auto 20px;
+    }
+
+    .banner-bottom-con {
+        gap: 14px;
+    }
+
+    .banner-con .user-box .user-text span.span-text {
+        font-size: 14px;
+        line-height: 20px;
+        margin-left: 6px;
+    }
+
+    .banner-con .user-box .user-text span.counter,
+    .banner-con .user-box .user-text span.alphabet,
+    .banner-con .user-box .user-text sup {
+        font-size: 26px;
+        line-height: 22px;
+        font-weight: 700;
+        margin-bottom: 0;
+    }
+
+    .banner-con .user-box {
+        margin-left: 14px;
+        text-align: left;
+    }
+
+    body {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .special-heading4 {
+        font-size: 15px;
+    }
+
+    .text-slider-bar-con {
+        padding: 20px 0 40px;
+    }
+
+    .vector {
+        display: none
+    }
+
+    .sub-text-slider-con {
+        padding: 20px 0;
+    }
+
+    .about-right-con .heading-title-con ul li {
+        font-size: 15px;
+        line-height: 21px;
+        margin-bottom: 8px;
+        padding-left: 25px;
+    }
+
+    .about-us-con .statistics-wrapper {
+        gap: 18px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        right: -10%;
+        height: 47px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.digit,
+    .about-us-con .statistics-wrapper .statistics-box sup {
+        font-size: 26px;
+        line-height: 26px;
+        margin-bottom: 7px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box span.span-text {
+        font-size: 13px;
+        line-height: 13px;
+        margin-bottom: 0;
+    }
+
+    .services-box p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .services-box {
+        text-align: center;
+        padding: 26px 20px;
+    }
+
+    .blue-elipse {
+        display: none;
+    }
+
+    .patient-trust-con .patient-box ul {
+        text-align: left;
+        width: 100%;
+        margin: 0 auto 20px;
+    }
+
+    .photo-slider-con .swiper-wrapper {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .news-and-articles-con .owl-nav {
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .footer-con .middle_portion .contact {
+        margin-left: 0;
+        margin-bottom: 25px;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-nav button.owl-next {
+        right: 40%;
+    }
+
+    .news-and-articles-con .owl-carousel .owl-nav button.owl-prev {
+        left: 40%;
+    }
+
+    .testimonials-con ul.d-flex.align-items-center {
+        display: block !important;
+        text-align: center;
+    }
+
+    .testimonials-con ul.d-flex.align-items-center li {
+        display: inline-block !important;
+        margin: 0 5px 7px;
+    }
+
+    .testimonial-box p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .testimonial-box {
+        padding: 20px 20px;
+    }
+
+    .testimonials-con .owl-carousel .owl-nav button.owl-prev,
+    .testimonials-con .owl-carousel .owl-nav button.owl-next {
+        width: 37px;
+        height: 37px;
+    }
+
+    .testimonials-con .owl-nav button.owl-prev {
+        top: 6%;
+        left: 17%;
+    }
+
+    .testimonials-con .owl-nav button.owl-next {
+        top: 6%;
+        right: 17%;
+    }
+
+    .testimonials-con .owl-theme .owl-nav {
+        margin-top: -18px !important;
+    }
+
+    .heading-title-con .text-size-46 br {
+        display: none;
+    }
+
+    .custom-input {
+        height: 48px;
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+
+    .book-appointment-con .col-md-4 {
+        margin-bottom: 16px;
+        padding: 0 10px !important;
+    }
+
+    .book-appointment-con .col-md-6 {
+        margin-bottom: 16px;
+        padding: 0 10px !important;
+    }
+
+    .book-appointment-con span.error {
+        font-size: 11px;
+        margin-top: 3px;
+        line-height: 11px;
+    }
+
+    .vector2 {
+        width: 80px;
+        height: 80px;
+    }
+
+    .patient-trust-con .patient-box {
+        padding: 20px 15px;
+        text-align: center;
+    }
+
+    .patient-trust-con .patient-box ul li {
+        font-size: 14px;
+        padding-left: 22px;
+        margin-bottom: 10px;
+        line-height: 19px;
+    }
+
+    .about-right-con .heading-title-con p {
+        line-height: 25px;
+        margin-bottom: 16px;
+    }
+
+    .patient-trust-con .patient-img-con figure.vector2 img {
+        width: 50px;
+    }
+
+    .sub-banner-con .sub-banner-content-con p {
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+
+    .sub-banner-con {
+        padding: 35px 0;
+    }
+
+    .who-we-are-con .who-we-are-content-con p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .cta-con .text-size-30 {
+        margin-bottom: 20px;
+    }
+
+    .elementary_btn {
+        font-size: 15px;
+        min-width: 250px;
+        padding: 0;
+        height: 52px;
+        line-height: 52px;
+        padding-right: 38px;
+    }
+
+    .elementary_btn span {
+        top: 7px;
+        right: 8px;
+    }
+
+    .heading4 {
+        font-size: 23px;
+        line-height: 26px;
+    }
+
+    .cta-con {
+        padding: 40px 0 40px;
+    }
+
+    .our-dentists-con .team-box figure img {
+        width: 200px;
+    }
+
+    .our-dentists-con .team-box figure::after {
+        width: 180px;
+        height: 180px;
+    }
+
+    .pricing-con .price-list-wrapper ul {
+        display: block !important;
+        margin: 0 auto !important;
+        width: 230px;
+    }
+
+    .pricing-con .price-list-wrapper ul li {
+        margin-bottom: 7px;
+    }
+
+    .pricing-con .pricing-box ul li:last-child {
+        margin-bottom: 0;
+    }
+
+    .contact-info-con .col-lg-4.col-md-6 {
+        margin-bottom: 25px;
+    }
+
+    .contact-map-con iframe {
+        height: 300px;
+        border-radius: 20px;
+    }
+
+    .dental-service-content-con span.pricing-span-text {
+        font-size: 15px;
+        line-height: 23px;
+        padding-left: 24px;
+        text-align: left;
+    }
+
+    .dental-service-content-con ul li,
+    .difference-con ul li {
+        font-size: 15px;
+        line-height: 23px;
+        margin-bottom: 6px;
+        padding-left: 26px;
+    }
+
+    .dental-services-inner-con {
+        padding: 30px 15px;
+    }
+
+    .dental-services-con .container > .dental-services-inner-con:last-child {
+        padding-bottom: 18px;
+    }
+
+    .teeth-whitening-con .dental-service-content-con .primary_btn {
+        min-width: 200px;
+    }
+
+    .difference-con .carousel button i {
+        width: 34px;
+        height: 34px;
+        font-size: 13px;
+    }
+
+    .dental-service-content-con {
+        width: 300px;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+
+    .cta-smile-con .elementary_btn {
+        min-width: 290px;
+    }
+
+    .cta-smile-con .text-size-30 {
+        margin-bottom: 18px !important;
+    }
+
+    .faq-con .heading-title-con p {
+        line-height: 26px;
+        font-size: 15px;
+    }
+
+    .faq-con .accordian-inner .card-header a {
+        padding: 15px 40px 15px 20px;
+    }
+
+    .faq-con .accordion-card .btn-link:before {
+        top: 19px;
+        right: 16px;
+    }
+
+    .faq-con .accordian-section-inner .sub-heading-four {
+        margin-bottom: 18px;
+        font-size: 21px;
+    }
+
+    .custom-btn.primary_btn span {
+        top: 4px;
+    }
+
+    .footer-con .middle_portion .links li i {
+        display: none;
+    }
+
+    .footer-con .middle_portion .links li a {
+        padding-left: 0;
+    }
+
+    .footer-con .middle_portion .contact .text-size-20 {
+        margin-bottom: 13px;
+    }
+
+    .footer-con .middle_portion .links ul {
+        margin: 0 auto;
+        width: auto;
+        text-align: center;
+    }
+
+    .footer-con .middle_portion .links li {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 351px) and (max-width: 364px) {
+    .banner-left-con .primary_btn {
+        margin-right: 0;
+        min-width: 96%;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .banner-left-con .secondary_btn {
+        min-width: 96%;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .text-size-80 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    h1.sub-heading1 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .campaign_countdown ul li {
+        margin: 0 4px;
+        min-width: auto;
+        padding: 8px 14px;
+        font-size: 14px;
+        line-height: 20px;
+        border-radius: 12px;
+    }
+
+    .campaign_countdown ul li span.days,
+    .campaign_countdown ul li span.hours,
+    .campaign_countdown ul li span.minutes,
+    .campaign_countdown ul li span.seconds {
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+    .coming-soon-con .new-logo {
+        margin-bottom: 20px;
+    }
+
+    .text-size-36 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .text-size-85 {
+        margin-bottom: 17px;
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .about-us-con .statistics-wrapper .statistics-box::before {
+        display: none;
+    }
+
+    .about-us-con .statistics-wrapper {
+        gap: 12px;
+    }
+
+    .banner-left-con .primary_btn {
+        margin-right: 0;
+        min-width: 96%;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .banner-left-con .secondary_btn {
+        min-width: 96%;
+        font-size: 13px;
+    }
+
+    .book-appointment-con .department-tag {
+        height: 24px;
+        left: 31px;
+        width: 128px;
+        top: -24px;
+        font-size: 13px;
+    }
+
+    .sub-banner-con .sub-banner-content-con p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 14px;
+    }
+
+    .testimonials-con .owl-nav button.owl-prev {
+        top: 6%;
+        left: 10%;
+    }
+
+    .testimonials-con .owl-nav button.owl-next {
+        top: 6%;
+        right: 10%;
+    }
+
+    .news-and-articles-con .article-box .image_content {
+        top: 60%;
+        height: 84px;
+        width: 84px;
+        line-height: 84px;
+    }
+
+    .news-and-articles-con .article-box .image_content .content span {
+        font-size: 11px;
+        line-height: 18px;
+    }
+
+    .contact-map-con iframe {
+        height: 270px;
+    }
+
+    .dental-service-content-con {
+        width: 100%;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+}
+
+/* Scoped only: pricing plan cards — CTA must stay inside the card (base CSS uses wide min-width). */
+
+@media screen and (max-width: 991px) {
+    .pricing-con .pricing-carousel {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .pricing-con .pricing-box,
+    .pricing-con .swiper-slide .pricing-box {
+        min-width: 0;
+        box-sizing: border-box;
+    }
+
+    .pricing-con .price-bottom-wrap {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .pricing-con .pricing-box a.primary_btn {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+        margin-right: 0;
+        margin-left: 0;
+        display: block;
+        box-sizing: border-box;
+        padding-left: 16px;
+        padding-right: 46px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .pricing-con .pricing-box,
+    .pricing-con .swiper-slide .pricing-box {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+
+    .pricing-con .pricing-carousel {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .pricing-con .pricing-box a.primary_btn {
+        padding-left: 14px;
+        padding-right: 44px;
+        font-size: 14px;
+    }
+}
+
+/* Home hero — spacing between Schedule a Visit & View Services (HeroSlider only uses this banner). */
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .banner-con .banner-left-con .inner-con1 > .primary_btn {
+        margin-right: 14px !important;
+        margin-bottom: 12px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 > .secondary_btn {
+        margin-left: 0;
+        margin-bottom: 12px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .banner-con .banner-left-con .inner-con1 > .primary_btn,
+    .banner-con .banner-left-con .inner-con1 > .secondary_btn {
+        display: block;
+        max-width: min(100%, 340px);
+        margin-left: auto;
+        margin-right: auto !important;
+        box-sizing: border-box;
+    }
+
+    .banner-con .banner-left-con .inner-con1 > .primary_btn {
+        margin-bottom: 14px;
+    }
+
+    .banner-con .banner-left-con .inner-con1 > .secondary_btn {
+        margin-bottom: 0;
+    }
+}
