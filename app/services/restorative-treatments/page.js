@@ -4,9 +4,9 @@ import RestorativeTreatmentsDetail from '@/components/RestorativeTreatmentsDetai
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Restorative Dentistry | Smilora',
+  title: 'Restorative Dentistry | Oralsquad',
   description:
-    'Fillings, crowns, bridges and implant restorations at Smilora — strong, natural-looking restorative dentistry.',
+    'Fillings, crowns, bridges and implant restorations at Oralsquad — strong, natural-looking restorative dentistry.',
 };
 
 export default function RestorativeTreatmentsPage() {

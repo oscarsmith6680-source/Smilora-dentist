@@ -34,7 +34,7 @@ const PhilosophySection = () => {
                 <figure className="mb-0">
                   <img
                     src="/assets/images/who-we-are-img1.jpg"
-                    alt="Patient-first dental care at Smilora"
+                    alt="Patient-first dental care at Oralsquad"
                     className="img-fluid"
                   />
                 </figure>
@@ -49,7 +49,7 @@ const PhilosophySection = () => {
               >
                 <h3 className="text-size-24 philosophy-about-con__card-title">Patient-First Care</h3>
                 <p className="mb-0 philosophy-about-con__card-text">
-                  At Smilora, you&apos;re more than just a patient — you&apos;re family. We take the time to
+                  At Oralsquad, you&apos;re more than just a patient — you&apos;re family. We take the time to
                   listen, understand your concerns, and create treatment plans that fit your unique needs. Our
                   goal is to make every visit comfortable, personalized, and stress-free.
                 </p>
@@ -69,7 +69,7 @@ const PhilosophySection = () => {
                 <p className="mb-0 philosophy-about-con__card-text">
                   We combine advanced dental technology with a gentle touch. From pain-free procedures to
                   state-of-the-art equipment, we ensure precision, comfort, and faster recovery. Dentistry
-                  doesn&apos;t have to be intimidating—with Smilora, it&apos;s reassuring and easy.
+                  doesn&apos;t have to be intimidating—with Oralsquad, it&apos;s reassuring and easy.
                 </p>
               </motion.div>
             </div>
@@ -83,7 +83,7 @@ const PhilosophySection = () => {
                 <figure className="mb-0">
                   <img
                     src="/assets/images/who-we-are-img2.jpg"
-                    alt="Modern gentle dentistry at Smilora"
+                    alt="Modern gentle dentistry at Oralsquad"
                     className="img-fluid"
                   />
                 </figure>

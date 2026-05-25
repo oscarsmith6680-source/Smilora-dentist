@@ -4,9 +4,9 @@ import OrthodonticsDetail from '@/components/OrthodonticsDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Orthodontics | Smilora',
+  title: 'Orthodontics | Oralsquad',
   description:
-    'Braces and clear aligners at Smilora — straighter teeth and a healthier bite for teens and adults in Melbourne.',
+    'Braces and clear aligners at Oralsquad — straighter teeth and a healthier bite for teens and adults in Melbourne.',
 };
 
 export default function OrthodonticsPage() {

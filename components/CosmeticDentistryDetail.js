@@ -391,12 +391,12 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Patients Choose <br /> Smilora for Cosmetic Care
+                  Why Patients Choose  Oralsquad for Cosmetic Care
                 </h2>
                 <p className="mb-4">
-                  Cosmetic dentistry should feel collaborative — not rushed. At Smilora, we combine
+                  Cosmetic dentistry should feel collaborative — not rushed. At Oralsquad, we combine
                   careful planning with honest guidance so your smile looks like you, only refreshed.
                 </p>
                 <Link href="/contact" className="text-decoration-none primary_btn d-inline-block tw-why__btn">
@@ -524,7 +524,7 @@ function InfoSection() {
               <div className="tw-faq-section__header text-center">
 
                 <h3 className="text-size-36 tw-faq__heading">Frequently Asked Questions</h3>
-                <p className="tw-faq-section__sub">Everything you need to know before booking cosmetic dentistry at Smilora.</p>
+                <p className="tw-faq-section__sub">Everything you need to know before booking cosmetic dentistry at Oralsquad.</p>
               </div>
             </FadeSlide>
             <div className="tw-faq-grid">

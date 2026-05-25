@@ -393,9 +393,9 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Patients Choose <br /> Smilora for Oral Surgery
+                  Why Patients Choose  Oralsquad for Oral Surgery
                 </h2>
                 <p className="mb-4">
                   Whether it is a painful wisdom tooth or a tooth that cannot be saved, we prioritise
@@ -527,7 +527,7 @@ function InfoSection() {
               <div className="tw-faq-section__header text-center">
 
                 <h3 className="text-size-36 tw-faq__heading">Frequently Asked Questions</h3>
-                <p className="tw-faq-section__sub">Everything you need to know before oral surgery at Smilora.</p>
+                <p className="tw-faq-section__sub">Everything you need to know before oral surgery at Oralsquad.</p>
               </div>
             </FadeSlide>
             <div className="tw-faq-grid">

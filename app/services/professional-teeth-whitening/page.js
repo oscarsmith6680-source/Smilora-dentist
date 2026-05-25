@@ -4,9 +4,9 @@ import TeethWhiteningDetail from '@/components/TeethWhiteningDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Professional Teeth Whitening | Smilora',
+  title: 'Professional Teeth Whitening | Oralsquad',
   description:
-    'Discover professional teeth whitening at Smilora — safe, dentist-supervised treatment that lifts years of staining in a single visit, with sensitivity managed throughout.',
+    'Discover professional teeth whitening at Oralsquad — safe, dentist-supervised treatment that lifts years of staining in a single visit, with sensitivity managed throughout.',
 };
 
 export default function TeethWhiteningPage() {

@@ -745,7 +745,7 @@ span {
   margin-bottom: 0;
 }
 
-/* Smilora Difference (`.tw-why` inside service detail pages only — `.tw-page` wrapper) */
+/* Oralsquad Difference (`.tw-why` inside service detail pages only — `.tw-page` wrapper) */
 @media screen and (max-width: 991px) {
   .tw-page .tw-why .row.g-5 {
     --bs-gutter-y: 2rem;
@@ -2345,4 +2345,27 @@ span {
 .book-appointment-con .contact-form .custom-input.custom-input--error:focus {
   border-color: #a31515 !important;
   box-shadow: 0 0 0 3px rgb(198 40 40 / 0.22);
+}
+
+
+/* Badi screens (Desktop) par size */
+.header-logo {
+  width: 150px;
+}
+
+/* Badi screens (Desktop/Laptop) ke liye */
+.responsive-logo {
+  width: 150px;
+  height: auto;
+}
+
+/* Mobile screens (768px se kam) par size automatic chota ho jaye */
+@media (max-width: 768px) {
+  .header-logo {
+    width: 110px; /* Mobile ke liye aap isko 100px ya 110px kar sakte hain */
+  }
+.responsive-logo {
+    width: 110px !important;
+  }
+  
 }

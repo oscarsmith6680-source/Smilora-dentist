@@ -27,10 +27,10 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const service = getServiceBySlug(params.slug);
   if (!service) {
-    return { title: 'Service | Smilora' };
+    return { title: 'Service | Oralsquad' };
   }
   return {
-    title: `${service.title} | Smilora`,
+    title: `${service.title} | Oralsquad`,
     description: service.metaDescription,
   };
 }

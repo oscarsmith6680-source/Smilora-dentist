@@ -1,14 +1,14 @@
 import PageShell from '@/components/PageShell';
 
 export const metadata = {
-  title: 'Terms of Use | Smilora',
+  title: 'Terms of Use | Oralsquad',
 };
 
 export default function TermsOfUsePage() {
   return (
     <PageShell
       title="Terms of Use"
-      description="Terms and conditions for using the Smilora website and online services."
+      description="Terms and conditions for using the Oralsquad website and online services."
       breadcrumb="Terms of Use"
     >
       <section className="float-left w-100 position-relative padding-top padding-bottom main-box">

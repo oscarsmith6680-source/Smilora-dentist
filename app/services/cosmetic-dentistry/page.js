@@ -4,9 +4,9 @@ import CosmeticDentistryDetail from '@/components/CosmeticDentistryDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Cosmetic Dentistry | Smilora',
+  title: 'Cosmetic Dentistry | Oralsquad',
   description:
-    'Whitening, veneers, bonding and smile makeovers at Smilora — natural-looking cosmetic dentistry in Melbourne.',
+    'Whitening, veneers, bonding and smile makeovers at Oralsquad — natural-looking cosmetic dentistry in Melbourne.',
 };
 
 export default function CosmeticDentistryPage() {

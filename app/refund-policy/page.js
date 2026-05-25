@@ -2,9 +2,9 @@ import Link from 'next/link';
 import PageShell from '@/components/PageShell';
 
 export const metadata = {
-  title: 'Refund Policy | Smilora',
+  title: 'Refund Policy | Oralsquad',
   description:
-    'Smilora Dental refund, cancellation, and payment adjustment policy for dental services, deposits, and clinic fees in Melbourne.',
+    'Oralsquad Dental refund, cancellation, and payment adjustment policy for dental services, deposits, and clinic fees in Melbourne.',
 };
 
 export default function RefundPolicyPage() {
@@ -16,10 +16,10 @@ export default function RefundPolicyPage() {
       <section className="float-left w-100 position-relative padding-bottom main-box">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-lg-9">
+            <div className="col-lg-12">
               <div className="legal-content text-size-16 line-height-28">
                 <p className="mb-4">
-                  This Refund Policy explains how Smilora (&quot;we&quot;, &quot;us&quot;, &quot;our&quot;) approaches
+                  This Refund Policy explains how Oralsquad (&quot;we&quot;, &quot;us&quot;, &quot;our&quot;) approaches
                   payments, deposits, cancellations, and requests for credits or refunds for dental services at our
                   Melbourne clinic. It applies alongside our{' '}
                   <Link href="/terms-and-conditions" className="text-decoration-none">
@@ -73,7 +73,7 @@ export default function RefundPolicyPage() {
 
                 <h2 className="text-size-22 mb-3">Private health insurance and third-party payers</h2>
                 <p className="mb-4">
-                  Rebates and benefit amounts are determined by your fund or payer, not by Smilora. We cannot refund
+                  Rebates and benefit amounts are determined by your fund or payer, not by Oralsquad. We cannot refund
                   insurer portions paid directly to you or to us on your behalf. If a claim is declined or adjusted
                   after treatment, any balance remains your responsibility unless we have agreed a specific arrangement
                   in advance.
@@ -104,9 +104,9 @@ export default function RefundPolicyPage() {
 
                 <h2 className="text-size-22 mb-3">Contact</h2>
                 <p className="mb-0">
-                  For billing or refund questions, contact Smilora:{' '}
-                  <a href="mailto:info@smilora.com" className="text-decoration-none">
-                    info@smilora.com
+                  For billing or refund questions, contact Oralsquad:{' '}
+                  <a href="mailto:info@Oralsquad.com" className="text-decoration-none">
+                    info@Oralsquad.com
                   </a>
                   , phone{' '}
                   <a href="tel:+61383766284" className="text-decoration-none">

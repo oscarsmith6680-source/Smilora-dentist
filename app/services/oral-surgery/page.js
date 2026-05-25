@@ -4,9 +4,9 @@ import OralSurgeryDetail from '@/components/OralSurgeryDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Oral Surgery | Smilora',
+  title: 'Oral Surgery | Oralsquad',
   description:
-    'Tooth extractions and wisdom teeth at Smilora — careful planning, clear aftercare, and support through healing.',
+    'Tooth extractions and wisdom teeth at Oralsquad — careful planning, clear aftercare, and support through healing.',
 };
 
 export default function OralSurgeryPage() {

@@ -11,7 +11,7 @@ export default function PricingPage() {
     <main>
       <SubBanner 
         title="Pricing Plans" 
-        description="At Smilora, we combine advanced technology with compassionate care to provide complete dental solutions for patients of all ages." 
+        description="At Oralsquad, we combine advanced technology with compassionate care to provide complete dental solutions for patients of all ages." 
         breadcrumb="Pricing"
       />
       <TextSlider />

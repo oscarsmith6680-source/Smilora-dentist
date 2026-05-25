@@ -1,6 +1,6 @@
-# Smilora - Dentist & Dental Care Clinic (Next.js Conversion)
+# Oralsquad - Dentist & Dental Care Clinic (Next.js Conversion)
 
-This project is a high-performance, fully responsive Next.js conversion of the Smilora HTML template.
+This project is a high-performance, fully responsive Next.js conversion of the Oralsquad HTML template.
 
 ## Features
 - **Next.js 14 App Router**: Modern and fast routing.
@@ -37,4 +37,4 @@ This project is a high-performance, fully responsive Next.js conversion of the S
 - Add new pages by creating folders in `app/` with a `page.js` file.
 - All styles are located in `styles/` and `app/globals.css`.
 
-Enjoy your new Smilora Next.js project!
+Enjoy your new Oralsquad Next.js project!

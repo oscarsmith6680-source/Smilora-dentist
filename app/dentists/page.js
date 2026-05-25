@@ -1,7 +1,6 @@
 import SubBanner from '@/components/SubBanner';
 import TextSlider from '@/components/TextSlider';
 import TeamSection from '@/components/TeamSection';
-import CTASection from '@/components/CTASection';
 
 export default function DentistsPage() {
   return (
@@ -12,7 +11,7 @@ export default function DentistsPage() {
       />
       <TextSlider />
       <TeamSection />
-      <CTASection />
+      
     </main>
   );
 }

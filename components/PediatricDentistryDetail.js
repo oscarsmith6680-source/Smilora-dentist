@@ -393,9 +393,9 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Families Choose <br /> Smilora for Kids
+                  Why Families Choose <br /> Oralsquad for Kids
                 </h2>
                 <p className="mb-4">
                   We help kids feel safe in the chair — with patience, simple words, and celebrations
@@ -526,7 +526,7 @@ function InfoSection() {
               <div className="tw-faq-section__header text-center">
 
                 <h3 className="text-size-36 tw-faq__heading">Frequently Asked Questions</h3>
-                <p className="tw-faq-section__sub">Everything you need to know before your child’s visit at Smilora.</p>
+                <p className="tw-faq-section__sub">Everything you need to know before your child’s visit at Oralsquad.</p>
               </div>
             </FadeSlide>
             <div className="tw-faq-grid">

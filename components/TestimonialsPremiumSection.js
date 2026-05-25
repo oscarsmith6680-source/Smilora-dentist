@@ -5,7 +5,7 @@ const testimonials = [
     name: 'Kevin James',
     designation: 'Whitening Patient',
     image: '/assets/images/standard_post_img01.jpg',
-    text: 'Smilora has the friendliest team I have ever encountered. They go above and beyond to make every visit stress-free. I had my teeth cleaned and whitened, and the results are amazing.',
+    text: 'Oralsquad has the friendliest team I have ever encountered. They go above and beyond to make every visit stress-free. I had my teeth cleaned and whitened, and the results are amazing.',
     rating: 5,
   },
   {
@@ -19,7 +19,7 @@ const testimonials = [
     name: 'Emma Richardson',
     designation: 'Preventive Care Patient',
     image: '/assets/images/standard_post_img03.jpg',
-    text: 'I have visited several dental clinics, but Smilora stands out for professionalism and modern care. The team answered all my questions and made me feel confident in every step of my treatment.',
+    text: 'I have visited several dental clinics, but Oralsquad stands out for professionalism and modern care. The team answered all my questions and made me feel confident in every step of my treatment.',
     rating: 5,
   },
   {
@@ -63,7 +63,7 @@ export default function TestimonialsPremiumSection() {
           <span className="tp-eyebrow">Patient Experiences</span>
           <h2 className="tp-title mb-0">Trusted Care, Shared with Confidence</h2>
           <p className="tp-subtitle mb-0">
-            Real stories from patients who chose Smilora for expert treatment, clear communication,
+            Real stories from patients who chose Oralsquad for expert treatment, clear communication,
             and compassionate support.
           </p>
         </div>

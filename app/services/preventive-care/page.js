@@ -4,9 +4,9 @@ import PreventiveCareDetail from '@/components/PreventiveCareDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Preventive Care | Smilora',
+  title: 'Preventive Care | Oralsquad',
   description:
-    'Preventive care at Smilora — regular checkups, professional cleaning, and early detection to protect your teeth and gums for the long term.',
+    'Preventive care at Oralsquad — regular checkups, professional cleaning, and early detection to protect your teeth and gums for the long term.',
 };
 
 export default function PreventiveCarePage() {

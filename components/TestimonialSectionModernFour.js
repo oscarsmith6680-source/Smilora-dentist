@@ -3,7 +3,7 @@ const testimonials = [
     name: 'Kevin James',
     designation: 'Happy Client',
     image: '/assets/images/standard_post_img01.jpg',
-    text: 'Smilora has the friendliest team I have ever encountered. They made my treatment stress-free and the whitening results were outstanding.',
+    text: 'Oralsquad has the friendliest team I have ever encountered. They made my treatment stress-free and the whitening results were outstanding.',
   },
   {
     name: 'Sophia Martinez',
@@ -21,7 +21,7 @@ const testimonials = [
     name: 'Michael Thompson',
     designation: 'Happy Client',
     image: '/assets/images/standard_post_img04.jpg',
-    text: 'From booking to follow-up, the experience was smooth. Smilora combines advanced treatment with genuine care for every patient.',
+    text: 'From booking to follow-up, the experience was smooth. Oralsquad combines advanced treatment with genuine care for every patient.',
   },
 ];
 
@@ -31,7 +31,7 @@ export default function TestimonialSectionModernFour() {
       <div className="container">
         <div className="tw-testimonials-modern__head text-center">
           <span className="tw-testimonials-modern__eyebrow">Patient Voices</span>
-          <h2 className="text-size-46 mb-0">What Patients Say About Smilora</h2>
+          <h2 className="text-size-46 mb-0">What Patients Say About Oralsquad</h2>
         </div>
 
         <div className="tw-testimonials-modern__grid">

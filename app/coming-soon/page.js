@@ -2,7 +2,7 @@ import Link from 'next/link';
 import PageShell from '@/components/PageShell';
 
 export const metadata = {
-  title: 'Coming Soon | Smilora',
+  title: 'Coming Soon | Oralsquad',
 };
 
 export default function ComingSoonPage() {

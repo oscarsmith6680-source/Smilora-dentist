@@ -2,9 +2,9 @@ import Link from 'next/link';
 import PageShell from '@/components/PageShell';
 
 export const metadata = {
-  title: 'Privacy Policy | Smilora',
+  title: 'Privacy Policy | Oralsquad',
   description:
-    'How Smilora Dental collects, uses, stores, and protects personal and health information for patients and website visitors in Melbourne.',
+    'How Oralsquad Dental collects, uses, stores, and protects personal and health information for patients and website visitors in Melbourne.',
 };
 
 export default function PrivacyPolicyPage() {
@@ -16,10 +16,10 @@ export default function PrivacyPolicyPage() {
       <section className="float-left w-100 position-relative padding-bottom main-box">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-lg-9">
+            <div className="col-lg-12">
               <div className="legal-content text-size-16 line-height-28">
                 <p className="mb-4">
-                Smilora ("we", "us", "our") is a dental clinic providing general and specialist dental care in Melbourne, Australia. This Privacy Policy explains how we handle personal information and health information when you visit smilora.com, contact us, book an appointment, or receive treatment at our practice. By using our website or our services, you acknowledge this Policy.
+                Oralsquad ("we", "us", "our") is a dental clinic providing general and specialist dental care in Melbourne, Australia. This Privacy Policy explains how we handle personal information and health information when you visit Oralsquad.com, contact us, book an appointment, or receive treatment at our practice. By using our website or our services, you acknowledge this Policy.
                 </p>
 
                 <h2 className="text-size-22 mb-3">Information we collect</h2>
@@ -108,9 +108,9 @@ export default function PrivacyPolicyPage() {
 
                 <h2 className="text-size-22 mb-3">Contact</h2>
                 <p className="mb-0">
-                  For privacy questions, access requests, or complaints, contact Smilora:{' '}
-                  <a href="mailto:info@smilora.com" className="text-decoration-none">
-                    info@smilora.com
+                  For privacy questions, access requests, or complaints, contact Oralsquad:{' '}
+                  <a href="mailto:info@Oralsquad.com" className="text-decoration-none">
+                    info@Oralsquad.com
                   </a>
                   , phone{' '}
                   <a href="tel:+61383766284" className="text-decoration-none">

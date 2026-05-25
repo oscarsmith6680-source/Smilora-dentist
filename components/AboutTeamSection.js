@@ -13,7 +13,7 @@ export default function AboutTeamSection() {
     <TeamSection
       eyebrow={null}
       title="Your Smile, Our Expertise"
-      intro="Behind every confident smile is a dentist who cares. At Smilora, our team of experienced dental professionals is dedicated to providing gentle, modern, and personalized care for every patient."
+      intro="Behind every confident smile is a dentist who cares. At Oralsquad, our team of experienced dental professionals is dedicated to providing gentle, modern, and personalized care for every patient."
       members={aboutTeamMembers}
     />
   );

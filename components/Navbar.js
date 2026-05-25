@@ -88,9 +88,23 @@ const Navbar = () => {
           <nav className="navbar navbar-expand-lg navbar-light">
             <Link className="navbar-brand" href="/" onClick={closeNav}>
               <figure className="mb-0">
-                <img src="/assets/images/logo.png" alt="logo-icon" />
+               {/* <img 
+                src="/assets/images/oralsquad.svg" 
+                alt="oralsquad-logo" 
+                style={{ width: '150px', height: 'auto' }}
+                /> */}
+
+                <img 
+                src="/assets/images/oralsquad.svg" 
+                alt="oralsquad-logo" 
+                className="header-logo" // Humnay inline width hata kar class de di
+                style={{ height: 'auto' }} 
+                />
+
               </figure>
             </Link>
+
+
             <button
               className={`navbar-toggler ${isNavOpen ? '' : 'collapsed'}`}
               type="button"

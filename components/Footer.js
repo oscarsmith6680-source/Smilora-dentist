@@ -16,12 +16,36 @@ const Footer = () => {
                   <div className="logo-content">
                     <Link href="/" className="footer-logo">
                       <figure className="mb-0">
-                        <img src="/assets/images/footer-logo.png" alt="footer logo" />
+                      
+                        <img 
+                        src="/assets/images/oralsquad.svg" 
+                        alt="oralsquad-logo" 
+                        className="responsive-logo" // Humnay yahan class de di
+                        style={{ filter: 'brightness(0) invert(1)' }} 
+                        />
+
+
                       </figure>
                     </Link>
                     <p>Our team of experienced dentists and specialists is dedicated to providing personalized care in a calm, welcoming environment.</p>
-                    <div className="copyright">
-                      <p className="mb-0">Copyright ©2026 Smilora. All Rights Reserved.</p>
+                  <div className="copyright">
+                    <p className="mb-0">
+                  Copyright ©2026 Oralsquad. All Rights Reserved. Developed by{' '}
+                  <a 
+                  href="https://techomatrix.com/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  style={{ 
+                  color: 'inherit',          // Hash '#' hata diya taake text ka sahi color aaye
+                  textDecoration: 'underline', 
+                  cursor: 'pointer',         // Is se click karne wala haath (hand icon) banega
+                  position: 'relative',      // Agar koi layout ka masla ho to click ho sake
+                  zIndex: 10                 // Taake link kisi aur cheez ke peeche na chupe
+                  }}
+                  >
+                  TechoMatrix
+                  </a>
+                  </p>
                     </div>
                   </div>
                 </div>
@@ -46,7 +70,7 @@ const Footer = () => {
                       </li>
                       <li className="text">
                         <i className="fa-solid fa-envelope"></i>
-                        <a href="mailto:info@smilora.com" className="text-decoration-none">info@smilora.com</a>
+                        <a href="mailto:info@Oralsquad.com" className="text-decoration-none">info@Oralsquad.com</a>
                       </li>
                       <li className="text">
                         <i className="fa-solid fa-location-dot"></i>

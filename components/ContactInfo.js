@@ -30,8 +30,8 @@ const ContactInfo = () => {
       icon: "/assets/images/contact-email-icon.png",
       title: "Email us at",
       links: [
-        { href: "mailto:info@smilora.com", text: "info@smilora.com" },
-        { href: "mailto:support@smilora.com", text: "support@smilora.com" }
+        { href: "mailto:info@Oralsquad.com", text: "info@Oralsquad.com" },
+        { href: "mailto:support@Oralsquad.com", text: "support@Oralsquad.com" }
       ],
       animation: { x: 50, opacity: 0 }
     }

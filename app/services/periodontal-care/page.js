@@ -4,9 +4,9 @@ import PeriodontalCareDetail from '@/components/PeriodontalCareDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Periodontal Care | Smilora',
+  title: 'Periodontal Care | Oralsquad',
   description:
-    'Gum disease treatment, deep cleaning and periodontal maintenance at Smilora — protect the foundation of your teeth.',
+    'Gum disease treatment, deep cleaning and periodontal maintenance at Oralsquad — protect the foundation of your teeth.',
 };
 
 export default function PeriodontalCarePage() {

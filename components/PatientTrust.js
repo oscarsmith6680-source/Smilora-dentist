@@ -27,7 +27,7 @@ const PatientTrust = () => {
               </figure>
               <div className="heading-title-con mb-0">
                 <span className="special-text d-inline-block">Bright Smiles, Better Confidence</span>
-                <h2 className="text-size-46">Why Patients Trust <br /> Smilora.</h2>
+                <h2 className="text-size-46">Why Patients Trust <br /> Oralsquad.</h2>
                 <ul className="list-unstyled p-0">
                   <li className="position-relative"> <i className="fa-solid fa-circle-check"></i> Gentle, Painless Procedures </li>
                   <li className="position-relative"> <i className="fa-solid fa-circle-check"></i> Advanced Technology & Modern Equipment </li>
@@ -48,8 +48,12 @@ const PatientTrust = () => {
             transition={{ duration: 1 }}
           >
             <div className="patient-img-con w-100 position-relative">
-              <figure><img src="/assets/images/patient-img.jpg" alt="patient image" className="img-fluid" /></figure>
-              <figure className="vector2 position-absolute"><img src="/assets/images/vector2.png" alt="vector" className="img-fluid" /></figure>
+              <figure>
+                <img src="/assets/images/patient-img.jpg" alt="patient image" className="img-fluid" />
+                </figure>
+              {/* <figure className="vector2 position-absolute">
+                <img src="/assets/images/vector2.png" alt="vector" className="img-fluid" />
+                </figure> */}
             </div>
           </motion.div>
         </div>

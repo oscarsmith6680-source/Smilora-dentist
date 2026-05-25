@@ -2,7 +2,7 @@ import PageShell from '@/components/PageShell';
 import TestimonialsPremiumSection from '@/components/TestimonialsPremiumSection';
 
 export const metadata = {
-  title: 'Testimonials | Smilora',
+  title: 'Testimonials | Oralsquad',
 };
 
 export default function TestimonialsPage() {

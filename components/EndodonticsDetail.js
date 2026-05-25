@@ -277,7 +277,7 @@ function OverviewSection() {
                   transition={{ duration: 0.6, delay: 0.66 }}
                 >
                   <Link href="/contact" className="text-decoration-none primary_btn d-inline-block">
-                    Book an Endodontic Assessment
+                    Book Endodontic Visit
                     <span>
                       <img src="/assets/images/up-arrow.png" alt="" className="img-fluid up-right-arrow-img" />
                     </span>
@@ -392,13 +392,13 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Patients Choose <br /> Smilora for Endodontics
+                  Why Patients Choose  Oralsquad for Endodontics
                 </h2>
                 <p className="mb-4">
                   Tooth pain can feel frightening — especially if you have heard outdated stories about
-                  root canals. At Smilora, we focus on thorough care, modern technique, and clear
+                  root canals. At Oralsquad, we focus on thorough care, modern technique, and clear
                   communication so you feel supported from start to finish.
                 </p>
                 <Link href="/contact" className="text-decoration-none primary_btn d-inline-block tw-why__btn">
@@ -526,7 +526,7 @@ function InfoSection() {
               <div className="tw-faq-section__header text-center">
 
                 <h3 className="text-size-36 tw-faq__heading">Frequently Asked Questions</h3>
-                <p className="tw-faq-section__sub">Everything you need to know before endodontic care at Smilora.</p>
+                <p className="tw-faq-section__sub">Everything you need to know before endodontic care at Oralsquad.</p>
               </div>
             </FadeSlide>
             <div className="tw-faq-grid">

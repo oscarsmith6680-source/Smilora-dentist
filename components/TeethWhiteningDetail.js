@@ -225,7 +225,7 @@ function OverviewSection() {
 
                 {/* Single paragraph */}
                 <p className="tw-ov-para">
-                  Professional teeth whitening at Smilora goes far beyond any over-the-counter kit.
+                  Professional teeth whitening at Oralsquad goes far beyond any over-the-counter kit.
                   Using clinical-grade gel under expert dental supervision, we lift years of staining
                   safely — delivering results that look natural, even, and genuinely luminous.
                 </p>
@@ -390,13 +390,13 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Patients Choose <br /> Smilora for Whitening
+                  Why Patients Choose  Oralsquad for Whitening
                 </h2>
                 <p className="mb-4">
                   There are dozens of whitening options out there — but not all of them protect your
-                  teeth while improving them. At Smilora, our approach combines clinical precision
+                  teeth while improving them. At Oralsquad, our approach combines clinical precision
                   with genuine patient care.
                 </p>
                 <Link href="/contact" className="text-decoration-none primary_btn d-inline-block tw-why__btn">
@@ -599,7 +599,7 @@ function CtaSection() {
             animate={inView ? { opacity: 1 } : {}}
             transition={{ duration: 0.7, delay: 0.2 }}
           >
-            Join hundreds of Smilora patients who started with one appointment and left with the
+            Join hundreds of Oralsquad patients who started with one appointment and left with the
             confident smile they always wanted. Your consultation is the first step.
           </motion.p>
           <motion.div

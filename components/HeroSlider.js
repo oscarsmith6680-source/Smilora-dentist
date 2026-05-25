@@ -22,7 +22,7 @@ const HeroSlider = () => {
             <div className="inner-con1">
               <span className="d-inline-block service-available-text urbanist-font">Your Smile. Our Expertise.</span>
               <h1 className="text-size-80">Where Dental Care Meets Comfort</h1>
-              <p>From kids to adults, Smilora provides comprehensive dental <br /> care tailored to your family’s needs.</p>
+              <p>From kids to adults, Oralsquad provides comprehensive dental <br /> care tailored to your family’s needs.</p>
               <Link href="/login" className="text-decoration-none primary_btn d-inline-block">
                 Schedule a Visit
                 <span>

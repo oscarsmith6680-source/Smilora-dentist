@@ -2,9 +2,9 @@ import Link from 'next/link';
 import PageShell from '@/components/PageShell';
 
 export const metadata = {
-  title: 'Terms & Conditions | Smilora',
+  title: 'Terms & Conditions | Oralsquad',
   description:
-    'Terms and conditions for using Smilora Dental website and services, appointments, fees, and patient responsibilities in Melbourne.',
+    'Terms and conditions for using Oralsquad Dental website and services, appointments, fees, and patient responsibilities in Melbourne.',
 };
 
 export default function TermsAndConditionsPage() {
@@ -16,11 +16,11 @@ export default function TermsAndConditionsPage() {
       <section className="float-left w-100 position-relative padding-bottom main-box">
         <div className="container">
           <div className="row justify-content-center">
-            <div className="col-lg-9">
+            <div className="col-lg-12">
               <div className="legal-content text-size-16 line-height-28">
                 <p className="mb-4">
                   These Terms &amp; Conditions (&quot;Terms&quot;) govern your use of the website at{' '}
-                  <strong>smilora.com</strong> and your relationship with Smilora (&quot;we&quot;, &quot;us&quot;,
+                  <strong>Oralsquad.com</strong> and your relationship with Oralsquad (&quot;we&quot;, &quot;us&quot;,
                   &quot;our&quot;), a dental clinic located in Melbourne, Australia. By accessing our website, booking
                   an appointment, or attending our practice, you agree to these Terms together with our{' '}
                   <Link href="/privacy-policy" className="text-decoration-none">
@@ -35,7 +35,7 @@ export default function TermsAndConditionsPage() {
 
                 <h2 className="text-size-22 mb-3">Services and information</h2>
                 <p className="mb-4">
-                  Smilora provides general and specialist dental care, including preventive, restorative, cosmetic, and
+                  Oralsquad provides general and specialist dental care, including preventive, restorative, cosmetic, and
                   related services as described on our website and discussed with you in person. Website content is for
                   general information only and does not replace a clinical examination or personalised advice. Treatment
                   suitability, alternatives, risks, and costs are confirmed at consultation.
@@ -91,7 +91,7 @@ export default function TermsAndConditionsPage() {
 
                 <h2 className="text-size-22 mb-3">Intellectual property</h2>
                 <p className="mb-4">
-                  Text, images, logos, and other content on this website are owned by or licensed to Smilora and are
+                  Text, images, logos, and other content on this website are owned by or licensed to Oralsquad and are
                   protected by copyright and trade mark laws. You may not copy, reproduce, or distribute site content for
                   commercial use without our prior written consent.
                 </p>
@@ -111,9 +111,9 @@ export default function TermsAndConditionsPage() {
 
                 <h2 className="text-size-22 mb-3">Contact</h2>
                 <p className="mb-0">
-                  For questions about these Terms, contact Smilora:{' '}
-                  <a href="mailto:info@smilora.com" className="text-decoration-none">
-                    info@smilora.com
+                  For questions about these Terms, contact Oralsquad:{' '}
+                  <a href="mailto:info@Oralsquad.com" className="text-decoration-none">
+                    info@Oralsquad.com
                   </a>
                   , phone{' '}
                   <a href="tel:+61383766284" className="text-decoration-none">

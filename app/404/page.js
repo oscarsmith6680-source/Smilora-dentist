@@ -2,7 +2,7 @@ import Link from 'next/link';
 import PageShell from '@/components/PageShell';
 
 export const metadata = {
-  title: 'Page Not Found | Smilora',
+  title: 'Page Not Found | Oralsquad',
 };
 
 export default function NotFoundDemoPage() {

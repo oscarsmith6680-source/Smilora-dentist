@@ -226,7 +226,7 @@ function OverviewSection() {
 
                 {/* Single paragraph */}
                 <p className="tw-ov-para">
-                  Preventive care at Smilora focuses on regular checkups, professional cleaning, and
+                  Preventive care at Oralsquad focuses on regular checkups, professional cleaning, and
                   early detection. Our team helps you maintain strong teeth and healthy gums with
                   clear guidance you can follow between visits — so small issues stay small.
                 </p>
@@ -391,13 +391,13 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Patients Choose <br /> Smilora for Prevention
+                  Why Patients Choose  Oralsquad for Prevention
                 </h2>
                 <p className="mb-4">
                   Prevention works best when it feels consistent, understandable, and supportive.
-                  At Smilora, we combine careful clinical checks with practical coaching so you can
+                  At Oralsquad, we combine careful clinical checks with practical coaching so you can
                   maintain a healthy mouth with confidence.
                 </p>
                 <Link href="/contact" className="text-decoration-none primary_btn d-inline-block tw-why__btn">
@@ -600,7 +600,7 @@ function CtaSection() {
             animate={inView ? { opacity: 1 } : {}}
             transition={{ duration: 0.7, delay: 0.2 }}
           >
-            Join Smilora patients who make prevention a priority — protecting their teeth and gums
+            Join Oralsquad patients who make prevention a priority — protecting their teeth and gums
             with steady, supportive care they can trust.
           </motion.p>
           <motion.div

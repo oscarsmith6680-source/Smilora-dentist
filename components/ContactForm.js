@@ -115,7 +115,7 @@ const ContactForm = () => {
           type: 'success',
           title: 'Message sent successfully',
           message:
-            'Thank you for contacting Smilora. Our reception team has received your request and will get back to you shortly.',
+            'Thank you for contacting Oralsquad. Our reception team has received your request and will get back to you shortly.',
         });
         setFieldErrors({});
         setFormData({

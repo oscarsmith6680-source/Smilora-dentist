@@ -392,13 +392,13 @@ function WhyChooseSection() {
               transition={{ duration: 0.8 }}
             >
               <div className="heading-title-con mb-0">
-                <span className="special-text d-inline-block">Smilora Difference</span>
+                <span className="special-text d-inline-block">Oralsquad Difference</span>
                 <h2 className="text-size-46">
-                  Why Patients Choose <br /> Smilora for Gum Care
+                  Why Patients Choose  Oralsquad for Gum Care
                 </h2>
                 <p className="mb-4">
                   Gum disease is easier to manage when it is diagnosed early and treated consistently.
-                  At Smilora, we combine careful measurements, modern therapy, and supportive coaching
+                  At Oralsquad, we combine careful measurements, modern therapy, and supportive coaching
                   so you are never guessing what “healthy gums” should feel like.
                 </p>
                 <Link href="/contact" className="text-decoration-none primary_btn d-inline-block tw-why__btn">
@@ -526,7 +526,7 @@ function InfoSection() {
               <div className="tw-faq-section__header text-center">
 
                 <h3 className="text-size-36 tw-faq__heading">Frequently Asked Questions</h3>
-                <p className="tw-faq-section__sub">Everything you need to know before periodontal therapy at Smilora.</p>
+                <p className="tw-faq-section__sub">Everything you need to know before periodontal therapy at Oralsquad.</p>
               </div>
             </FadeSlide>
             <div className="tw-faq-grid">

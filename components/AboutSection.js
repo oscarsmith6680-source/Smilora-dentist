@@ -18,9 +18,9 @@ const AboutSection = () => {
         ref={ref}
         className="float-left w-100 position-relative about-us-con padding-bottom padding-rl-responsive"
       >
-        <figure>
+        {/* <figure>
           <img src="/assets/images/vector.png" alt="vector" className="img-fluid position-absolute vector" />
-        </figure>
+        </figure> */}
         <div className="container-fluid p-0">
           <div className="about-us-inner-con align-items-center justify-content-between">
             <motion.div 
@@ -53,7 +53,7 @@ const AboutSection = () => {
               <div className="heading-title-con mb-0">
                 <span className="special-text d-inline-block">Your Family’s Smile Partner</span>
                 <h2 className="text-size-46">Advanced Dentistry with a Gentle Touch</h2>
-                <span className="d-block text-blue text-uppercase font-weight-bold smilora-text">At Smilora, we believe every smile tells a story. </span>
+                <span className="d-block text-blue text-uppercase font-weight-bold Oralsquad-text">At Oralsquad, we believe every smile tells a story. </span>
                 <p>Our experienced dentists combine compassion with advanced dental technology to deliver personalized care. From routine checkups to cosmetic dentistry, we make your dental journey stress-free and comfortable.</p>
                 <ul className="list-unstyled p-0">
                   <li className="position-relative"> <i className="fa-solid fa-tooth"></i> 15+ Years of Trusted Care </li>

@@ -4,9 +4,9 @@ import PediatricDentistryDetail from '@/components/PediatricDentistryDetail';
 import TestimonialSectionModernFour from '@/components/TestimonialSectionModernFour';
 
 export const metadata = {
-  title: 'Pediatric Dentistry | Smilora',
+  title: 'Pediatric Dentistry | Oralsquad',
   description:
-    'Children’s dentist at Smilora — gentle exams, cleans, sealants, and positive first visits in Melbourne.',
+    'Children’s dentist at Oralsquad — gentle exams, cleans, sealants, and positive first visits in Melbourne.',
 };
 
 export default function PediatricDentistryPage() {

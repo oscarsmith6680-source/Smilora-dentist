@@ -35,8 +35,8 @@ const raleway = Raleway({
 });
 
 export const metadata = {
-  title: 'Smilora – Dentist & Dental Care Clinic',
-  description: 'Smilora – Dentist & Dental Care Clinic',
+  title: 'Oralsquad – Dentist & Dental Care Clinic',
+  description: 'Oralsquad – Dentist & Dental Care Clinic',
   icons: {
     icon: '/assets/images/favicon/favicon.png',
   },
